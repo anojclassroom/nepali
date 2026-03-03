@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - name: Verify M3U exists and is non-empty
         run: |
-          test -s playlists/nepali_clean_kodi.m3u
+          test -s playlists/nepali.m3u
