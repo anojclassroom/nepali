@@ -1,12 +1,12 @@
 
-# Nepali TV for Kodi (M3U)
+# Nepali (M3U)
 
 A clean, Kodi‑ready M3U playlist of Nepali TV channels with simple setup instructions.
 
 > **Note:** Many Nepali broadcasters provide official streams via their websites or YouTube and do not publish public HLS manifests. This playlist mixes one officially published HLS stream (Kantipur TV HD) with public endpoints you supplied for other channels, which may change over time.
 
 ## Contents
-- `playlists/nepali_clean_kodi.m3u` – M3U playlist
+- `playlists/nepalim3u` – M3U playlist
 - `kodi/README_KODI.md` – step‑by‑step setup for Kodi
 - `LICENSE` – MIT
 
