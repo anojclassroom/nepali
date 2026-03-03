@@ -35,5 +35,8 @@ http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal | News & General",TV Today
 https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal | Regional",Divyadarshan
+http://live.divyadarshantv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal | Regional",Nepal Mandal
 http://103.96.246.211:8000/main
