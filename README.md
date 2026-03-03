@@ -12,7 +12,7 @@ A clean, Kodi‑ready M3U playlist of Nepali TV channels with simple setup instr
 
 ## Quick Start (Kodi – PVR IPTV Simple Client)
 1. Open **Kodi** → **Settings** → **Add‑ons** → **My add‑ons** → **PVR clients** → **PVR IPTV Simple Client** → **Enable**.
-2. **Configure** → **General** → **Location**: *Local path* → **M3U playlist path**: select `playlists/nepali_clean_kodi.m3u`.
+2. **Configure** → **General** → **Location**: *Local path* → **M3U playlist path**: select `playlists/nepali.m3u`.
 3. Restart Kodi or go to **Settings → PVR & Live TV → Clear data** to refresh channels.
 
 ## Disclaimers
