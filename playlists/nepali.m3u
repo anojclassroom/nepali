@@ -44,7 +44,7 @@ http://103.96.246.211:8000/main
 #EXTINF:-1 tvg-id="HalpalGeo.harpalgeo" tvg-name="Halpal Geo" group-title="Nepal | Public Service",Harpal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Foodfood.foodfood" tvg-name="Food Food" group-title="Hindi | lifestyle",Food Food
+#EXTINF:-1 tvg-id="Foodfood.foodfood" tvg-name="Food Food" group-title="Hindi | Entertainment",Food Food
 http://45.148.145.57/IN_FOODFOOD/index.m3u8
 
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Hindi | Entertainment",Dangal TV
@@ -70,9 +70,6 @@ http://103.229.254.25:7001/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Cineplex. cineplex" tvg-name="Cineplex" group-title="Hindi | Entertainment",Cineplex
 http://103.182.170.32:8888/play/a01o
-
-#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" group-title="Hindi | Entertainment",Manoranjan
-http://103.78.149.54:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Hindi | Religious",Astha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
