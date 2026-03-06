@@ -56,22 +56,22 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" group-title="Hindi | Music",E24
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1,Pishow 1013
+#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" group-title="Hindi | Entertainment",Manoranjan
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 
-#EXTINF:-1,Pishow 1011
+#EXTINF:-1 tvg-id="Manoranjan grand.manoranjan grand" tvg-name="Manoranjan Grand" group-title="Hindi | Entertainment",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 #EXTINF:-1 tvg-id="Shemarro Umang.shemarro umang" tvg-name="Shemarro Umang" group-title="Hindi | Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
-#EXTINF:-1,Pishow 230
+#EXTINF:-1 tvg-id="Shemaroo.shemarro" tvg-name="Shemaroo" group-title="Hindi | Religious",Shemaroo
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:-1 tvg-id="Shemaroo Chumbak.shemarro chumbak" tvg-name="Shemaroo Chumbak" group-title="Hindi | Entertainment",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1,Unknown Channel A09S
+#EXTINF:-1 tvg-id="Sub.sub" tvg-name="Sub" group-title="Hindi | Entertainment",Sub
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Hindi | Religious",Astha
