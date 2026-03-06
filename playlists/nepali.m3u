@@ -17,26 +17,29 @@ https://ntv.onrender.com/ntv/ntv-itahari
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" group-title="Nepal | Public Service",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" group-title="Nepal | Regional",Mithila TV
+#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" group-title="Nepal | Public Service",Mithila TV
 http://150.107.205.212:1935/live/mithila/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" group-title="Nepal | Regional",Capital TV
+#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" group-title="Nepal | Public Service",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
-#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" group-title="Nepal | News & General",Kantipur TV HD
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" group-title="Nepal | Public Service",Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" group-title="Nepal | Regional",Indigenous TV
+#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" group-title="Nepal | Public Service",Indigenous TV
 http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal | Regional",Public TV
+#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal | Public Service",Public TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal | News & General",TV Today
+#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal | Public Service",TV Today
 https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal | Regional",Divyadarshan
+#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal | Public Service",Divyadarshan
 http://live.divyadarshantv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal | Regional",Nepal Mandal
+#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal | Public Service",Nepal Mandal
 http://103.96.246.211:8000/main
+
+#EXTINF:-1 tvg-id="HalpalGeo.harpalgeo" tvg-name="Halpal Geo" group-title="Nepal | Public Service",Harpal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
