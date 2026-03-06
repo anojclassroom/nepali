@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" group-title="Nepal | Public Service",NTV
+#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" group-title="Nepal",NTV
 https://ntv.onrender.com/ntv/ntv
 
-#EXTINF:-1 tvg-id="NTVPlus.ntvplus" tvg-name="NTV Plus" group-title="Nepal | Public Service",NTV Plus
+#EXTINF:-1 tvg-id="NTVPlus.ntvplus" tvg-name="NTV Plus" group-title="Nepal",NTV Plus
 https://ntv.onrender.com/ntv/ntv-plus
 
-#EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" group-title="Nepal | Public Service",NTV News
+#EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" group-title="Nepal",NTV News
 https://ntv.onrender.com/ntv/ntv-news
 
-#EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" group-title="Nepal | Public Service",NTV Kohalpur
+#EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" group-title="Nepal",NTV Kohalpur
 https://ntv.onrender.com/ntv/ntv-kohalpur
 
-#EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" group-title="Nepal | Public Service",NTV Itahari
+#EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" group-title="Nepal",NTV Itahari
 https://ntv.onrender.com/ntv/ntv-itahari
 
-#EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" group-title="Nepal | Public Service",NTV World
+#EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" group-title="Nepal",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" group-title="Nepal | Public Service",Mithila TV
+#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" group-title="Nepal",Mithila TV
 http://150.107.205.212:1935/live/mithila/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" group-title="Nepal | Public Service",Capital TV
+#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" group-title="Nepal",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
-#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" group-title="Nepal | Public Service",Kantipur TV HD
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" group-title="Nepal",Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" group-title="Nepal | Public Service",Indigenous TV
+#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" group-title="Nepal",Indigenous TV
 http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal | Public Service",Public TV
+#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal",Public TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal | Public Service",TV Today
+#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal",TV Today
 https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal | Public Service",Divyadarshan
+#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal",Divyadarshan
 http://live.divyadarshantv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal | Public Service",Nepal Mandal
+#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal",Nepal Mandal
 http://103.96.246.211:8000/main
 
-#EXTINF:-1 tvg-id="HalpalGeo.harpalgeo" tvg-name="Halpal Geo" group-title="Nepal | Public Service",Harpal Geo
+#EXTINF:-1 tvg-id="HalpalGeo.harpalgeo" tvg-name="Halpal Geo" group-title="Pak",Harpal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Foodfood.foodfood" tvg-name="Food Food" group-title="Hindi | Entertainment",Food Food
