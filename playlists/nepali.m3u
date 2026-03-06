@@ -62,25 +62,25 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1,Pishow 1011
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
-#EXTINF:-1,Shemaroo Umang
+#EXTINF:-1 tvg-id="Shemarro Umang.shemarro umang" tvg-name="Shemarro Umang" group-title="Hindi | Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
 #EXTINF:-1,Pishow 230
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1,Shemaroo Chumbak TV
+#EXTINF:-1 tvg-id="Shemaroo Chumbak.shemarro chumbak" tvg-name="Shemaroo Chumbak" group-title="Hindi | Entertainment",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
 #EXTINF:-1,Unknown Channel A09S
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
-#EXTINF:-1,Aastha TV
+#EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Hindi | Religious",Astha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
-#EXTINF:-1,Aastha Prime
+#EXTINF:-1 tvg-id="Astha Prime.astha prime" tvg-name="Astha Prime" group-title="Hindi | Religious",Astha Prime
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
-#EXTINF:-1,Bhakti Sagar
+#EXTINF:-1 tvg-id="Bhakti Sagar. bhakti sagar" tvg-name="Bhakti Sagar" group-title="Hindi | Religious",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 
 #EXTINF:-1,Pitaara TV
@@ -116,7 +116,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="Insync.insync" tvg-name="Insync" group-title="Hindi | Music",Insync
 https://mumt04.tangotv.in/INSYNC/index.m3u8
 
-#EXTINF:-1,Pishow 226
+#EXTINF:-1 tvg-id="1.1" tvg-name="a" group-title="Hindi | Music",a
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1,Unknown A008
