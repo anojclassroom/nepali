@@ -153,10 +153,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="English News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
 https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CGTN News
+#EXTINF:-1 tvg-logo=""group-title="News" group-title="",CGTN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 
 
