@@ -41,85 +41,88 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal",Nepal Mandal
 http://103.96.246.211:8000/main
 
-#EXTINF:-1 tvg-id="Foodfood.foodfood" tvg-name="Food Food" group-title="Hindi | Entertainment",Food Food
-http://45.148.145.57/IN_FOODFOOD/index.m3u8
-
-#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Hindi | Entertainment",Dangal TV
+#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal2" group-title="Hindi | Entertainment",Dangal2 TV
+#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal2" group-title="Entertainment",Dangal2 TV
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" group-title="Hindi | Entertainment",Manoranjan
+#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" group-title="Entertainment",Manoranjan
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 
-#EXTINF:-1 tvg-id="Manoranjan grand.manoranjan grand" tvg-name="Manoranjan Grand" group-title="Hindi | Entertainment",Manoranjan Grand
+#EXTINF:-1 tvg-id="Manoranjan grand.manoranjan grand" tvg-name="Manoranjan Grand" group-title="Entertainment",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
-#EXTINF:-1 tvg-id="Shemarro Umang.shemarro umang" tvg-name="Shemarro Umang" group-title="Hindi | Entertainment",Shemaroo Umang
+#EXTINF:-1 tvg-id="Shemarro Umang.shemarro umang" tvg-name="Shemarro Umang" group-title="Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
-#EXTINF:-1 tvg-id="Shemaroo Chumbak.shemarro chumbak" tvg-name="Shemaroo Chumbak" group-title="Hindi | Entertainment",Shemaroo TV
+#EXTINF:-1 tvg-id="Shemaroo Chumbak.shemarro chumbak" tvg-name="Shemaroo Chumbak" group-title="Entertainment",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sub.sub" tvg-name="Sub" group-title="Hindi | Entertainment",Sub
+#EXTINF:-1 tvg-id="Sub.sub" tvg-name="Sub" group-title="Entertainment",Sub
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
-#EXTINF:-1 tvg-id="Cineplex. cineplex" tvg-name="Cineplex" group-title="Hindi | Entertainment",Cineplex
+#EXTINF:-1 tvg-id="Cineplex. cineplex" tvg-name="Cineplex" group-title="Entertainment",Cineplex
 http://103.182.170.32:8888/play/a01o
 
-#EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Hindi | Religious",Astha
+#EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Religious",Astha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Shemaroo.shemarro" tvg-name="Shemaroo" group-title="Hindi | Religious",Shemaroo
+#EXTINF:-1 tvg-id="Shemaroo.shemarro" tvg-name="Shemaroo" group-title="Religious",Shemaroo
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 tvg-id="Astha Prime.astha prime" tvg-name="Astha Prime" group-title="Hindi | Religious",Astha Prime
+#EXTINF:-1 tvg-id="Astha Prime.astha prime" tvg-name="Astha Prime" group-title="Religious",Astha Prime
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Bhakti Sagar. bhakti sagar" tvg-name="Bhakti Sagar" group-title="Hindi | Religious",Bhakti Sagar
+#EXTINF:-1 tvg-id="Bhakti Sagar. bhakti sagar" tvg-name="Bhakti Sagar" group-title="Religious",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 
-#EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" group-title="Hindi | Religious",Divya
+#EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" group-title="Religious",Divya
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Peace of Mind.peace of mind" tvg-name="Peace of Mind" group-title="Hindi | Religious",Peace of Mind
+#EXTINF:-1 tvg-id="Peace of Mind.peace of mind" tvg-name="Peace of Mind" group-title="Religious",Peace of Mind
 https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 
-#EXTINF:-1 tvg-id="Shankar.shankar" tvg-name="Shankar" group-title="Hindi | Religious",Shankar
+#EXTINF:-1 tvg-id="Shankar.shankar" tvg-name="Shankar" group-title="Religious",Shankar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
-#EXTINF:-1 tvg-id="Aajtak.aajtak" tvg-name="Aajtak" group-title="Hindi | News",AajTak
+#EXTINF:-1 tvg-id="Aajtak.aajtak" tvg-name="Aajtak" group-title="News",AajTak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 
-#EXTINF:-1 tvg-id="ABP News.abp news" tvg-name="ABP News" group-title="Hindi | News",ABP News
+#EXTINF:-1 tvg-id="ABP News.abp news" tvg-name="ABP News" group-title="News",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
-#EXTINF:-1 tvg-id="Indiatv.indiatv" tvg-name="Indiatv" group-title="Hindi | News",Indiatv
+#EXTINF:-1 tvg-id="Indiatv.indiatv" tvg-name="Indiatv" group-title="News",Indiatv
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
-#EXTINF:-1 tvg-id="Znews. znews" tvg-name="Znews" group-title="Hindi | News",Znews
+#EXTINF:-1 tvg-id="Znews. znews" tvg-name="Znews" group-title="News",Znews
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
-#EXTINF:-1 tvg-id="9xm.9xm" tvg-name="Ixm" group-title="Hindi | Music",9xm
+#EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Music",Colors Infinity SD
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9xm.9xm" tvg-name="Ixm" group-title="Music",9xm
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
-#EXTINF:-1 tvg-id="Balleballe.balleballe" tvg-name="Balle Balle" group-title="Hindi | Music",Balle Balle
+#EXTINF:-1 tvg-id="Balleballe.balleballe" tvg-name="Balle Balle" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Insync.insync" tvg-name="Insync" group-title="Hindi | Music",Insync
+#EXTINF:-1 tvg-id="Insync.insync" tvg-name="Insync" group-title="Music",Insync
 https://mumt04.tangotv.in/INSYNC/index.m3u8
 
-#EXTINF:-1 tvg-id="Music India.music india" tvg-name="a" group-title="Hindi | Music",Music India
+#EXTINF:-1 tvg-id="Music India.music india" tvg-name="a" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="Zoomint.zoomint" tvg-name="Zoomint" group-title="Hindi | Music",Zoomint
+#EXTINF:-1 tvg-id="Zoomint.zoomint" tvg-name="Zoomint" group-title="Music",Zoomint
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Zoom.zoom" tvg-name="Zoom" group-title="Hindi | Music",Zoom TV
+#EXTINF:-1 tvg-id="Zoom.zoom" tvg-name="Zoom" group-title="Music",Zoom TV
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" group-title="Hindi | Music",E24
+#EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" group-title="Music",E24
 https://mumt04.tangotv.in/E24/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment",Har Pal Geo
@@ -127,6 +130,9 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Foodfood.foodfood" tvg-name="Food Food" group-title="Infotainment",Food Food
+http://45.148.145.57/IN_FOODFOOD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", TLC HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
@@ -228,8 +234,4 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Music",Colors Infinity SD
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
