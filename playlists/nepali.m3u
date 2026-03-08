@@ -110,7 +110,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Music",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9xm.9xm" tvg-name="Ixm" group-title="Music",9xm1
+#EXTINF:-1 tvg-id="9xm.9xm" tvg-name="9xm" group-title="Music",9xm
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
 #EXTINF:-1 tvg-id="Balleballe.balleballe" tvg-name="Balle Balle" group-title="Music",Balle Balle
@@ -131,8 +131,8 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" group-title="Music",E24
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=9x+jalwa" group-title="Music", 9x jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8?ads.vf=ADK_AMIzrfu
+#EXTINF:-1 tvg-logo="" group-title="Music",9x jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music", 9xm
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
