@@ -62,6 +62,15 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 #EXTINF:-1 tvg-id="Sub.sub" tvg-name="Sub" group-title="Entertainment",Sub
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+TV" group-title="Entertainment", Panjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Unique+TV" group-title="Entertainment", Unique TV
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Durdarsan" group-title="Entertainment", Durdarsan
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+
 #EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Religious",Astha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
@@ -121,6 +130,45 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" group-title="Music",E24
 https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=9x+jalwa" group-title="Music", 9x jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8?ads.vf=ADK_AMIzrfu
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=9xm" group-title="Music", 9xm
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Bollywood+masala" group-title="Music", Bollywood masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=SyLjWbscWiy
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=tara+tv" group-title="Music", tara tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=E24" group-title="Music", E24
+https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=YRF+Music" group-title="Music", YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8?ads.vf=CA7XvKi0sQq
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Zoomer+Tv" group-title="Music", Zoomer Tv
+https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Hiphup" group-title="Music", Hiphup
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8?ads.vf=y5kiBbtngdq
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH1" group-title="Music", MH1
+https://mumt04.tangotv.in/MHONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=GTC" group-title="Music", GTC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Green+Chilly" group-title="Music", Green Chilly
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8?ads.vf=rF2BAuiapmm
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Tadka+tv" group-title="Music", Tadka tv
+https://mumt03.tangotv.in/TADKA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+music" group-title="Music", Panjabi music
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment",Har Pal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -240,3 +288,50 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cineplex
 http://103.182.170.32:8888/play/a01o
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH+Movie" group-title="Movies", MH Movie
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Digney+HD" group-title="KIDS", Digney HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=ETV+balbharat" group-title="KIDS", ETV balbharat
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=ABC+Kids" group-title="KIDS", ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=wild+earth" group-title="Infotainment", wild earth
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=4K+travel" group-title="Infotainment", 4K travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Nature+Stream+TV" group-title="Infotainment", Nature Stream TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=True+History" group-title="Infotainment", True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8?ads.vf=G1hGexOV3sS
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=bbc+earth" group-title="Infotainment", bbc earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Baywatch" group-title="Infotainment", Baywatch
+https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=dance+mom" group-title="Infotainment", dance mom
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Anger+management" group-title="Infotainment", Anger management
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=%28ITV%29+Come+Dine+With+Me%3F" group-title="Infotainment", (ITV) Come Dine With Me?
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Zee+World+%28FAST%29" group-title="Infotainment", Zee World (FAST)
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+
+
+
+
+
