@@ -185,38 +185,17 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English EU
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Infotainment",Travel xp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Infotainment", OUTDOOR CHANNEL 🇺🇸
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=wild+earth" group-title="Infotainment", wild earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=4K+travel" group-title="Infotainment", 4K travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
-
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Nature+Stream+TV" group-title="Infotainment", Nature Stream TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
-
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=True+History" group-title="Infotainment", True History
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8?ads.vf=G1hGexOV3sS
-
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=bbc+earth" group-title="Infotainment", bbc earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Baywatch" group-title="Infotainment", Baywatch
-https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=dance+mom" group-title="Infotainment", dance mom
 https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
@@ -227,7 +206,7 @@ https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=%28ITV%29+Come+Dine+With+Me%3F" group-title="Infotainment", (ITV) Come Dine With Me?
 https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Zee+World+%28FAST%29" group-title="Infotainment", Zee World (FAST)
+#EXTINF:-1 tvg-id="Aajtak.aajtak" tvg-name="Aajtak" group-title="Infotainment", Zee World
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aajtak.aajtak" tvg-name="Aajtak" group-title="News",AajTak
@@ -248,13 +227,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
 https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="News" group-title="",CGTN News
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="News" group-title="",CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://is.gd/ywX5PG", CNN NEWS
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNN (US)
