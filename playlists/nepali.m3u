@@ -167,17 +167,11 @@ https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+music" group-title="Music", Panjabi music
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
-#EXTINF:-1 tvg-id="Travelxp.travelxp" tvg-name="Travelxp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Travelxp_logo.svg" group-title="Infotainment",Travel XP
-https://travelxp-travelxp-1-nl.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WildEarth.wildearth" tvg-name="WildEarth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/WildEarth_logo.png" group-title="Infotainment",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
