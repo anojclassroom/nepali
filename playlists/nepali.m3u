@@ -89,7 +89,7 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 #EXTINF:-1 tvg-id="9xm.9xm" tvg-name="9xm" group-title="Music",9xm
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/9xm_logo.png" group-title="Music",9XM
+#EXTINF:-1 tvg-id="9XM.9XM" tvg-name="9XM" group-title="Music",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
 
