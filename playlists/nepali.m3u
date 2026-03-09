@@ -173,14 +173,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WildEarth.wildearth" tvg-name="WildEarth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/WildEarth_logo.png" group-title="Infotainment",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-
 #EXTINF:-1 tvg-id="FoodFood.foodfood" tvg-name="Food Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Food_Food_logo.png" group-title="Infotainment",Food Food
 https://amg01455-foodfoodtv-fast-amagi-com.akamaized.net/amg01455-foodfoodtv-fast/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.bbcearth" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BBC_Earth_logo.svg" group-title="Infotainment",BBC Earth
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TLC-Logo_2016.svg" group-title="Infotainment",TLC HD
 https://d35j504z0x2vu2.cloudfront.net/master/v15master.m3u8
@@ -198,7 +192,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=dance+mom" group-title="Infotainment", dance mom
-https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e968295/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Anger+management" group-title="Infotainment", Anger management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
