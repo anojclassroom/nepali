@@ -83,7 +83,7 @@ https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-id="PeaceOfMind.peaceofmind" tvg-name="Peace of Mind" tvg-logo="https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png" group-title="Religious",Peace of Mind
 https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 
-#EXTINF:-1 tvg-id="Sanskar.sanskar" tvg-name="Sanskar TV" tvg-logo="https://brandfetch.com/sanskargroup.in/logo" group-title="Religious",Shankar
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-id="9xm.9xm" tvg-name="9xm" group-title="Music",9xm
