@@ -101,43 +101,11 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Zee_News_2025.svg" group-title="News",Znews
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
-#EXTINF:-1 tvg-id="9XM.9xm" tvg-name="9XM" tvg-logo="https://images.seeklogo.com/logo-png/43/2/9xm-logo-png_seeklogo-435267.png" group-title="Music",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9xm/9xm.isml/9xm-audio_208482_und=208000-video=1200000.m3u8
-
 #EXTINF:-1 tvg-id="9xm.9xm" tvg-name="9xm" group-title="Music",9xm
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",9x jalwa
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music", 9xm
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC
-
-#EXTINF:-1 tvg-id="Zoom.zoom" tvg-name="Zoom" tvg-logo="https://images.seeklogo.com/logo-png/22/2/zoom-tv-logo-png_seeklogo-222927.png" group-title="Music",Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom_audio=208482_und=208000-video=799996.m3u8
-
-#EXTINF:-1 tvg-id="E24.e24" tvg-name="E24" tvg-logo="https://images.seeklogo.com/logo-png/32/1/e24-tv-logo-png_seeklogo-326146.png" group-title="Music",E24
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01101-shemarooenterta-e24in1-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MH1.mh1" tvg-name="MH1" tvg-logo="https://images.seeklogo.com/logo-png/21/2/mh1-logo-png_seeklogo-214469.png" group-title="Music",MH1
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/MHOne/default/MHOne-audio_208482_und=208000-video=2700000.m3u8
-# MH1 logo (vector mirror). [10](https://seeklogo.com/vector-logo/326253/sky-news)
-
-#EXTINF:-1 tvg-id="MusicIndia.musicindia" tvg-name="Music India" tvg-logo="https://images.seeklogo.com/logo-png/43/2/music-india-logo-png_seeklogo-435215.png" group-title="Music",Music India
-https://d35j504z0x2vu2.cloudfront.net/master/v24master.m3u8
-# Music India (vector mirror). [10](https://seeklogo.com/vector-logo/326253/sky-news)
-
-#EXTINF:-1 tvg-id="Insync.insync" tvg-name="Insync" tvg-logo="https://images.seeklogo.com/logo-png/45/1/insync-logo-png_seeklogo-451917.png" group-title="Music",Insync
-https://dai.google.com/linear/hls/event/pML2fdLHSs-7H4zM2W5xTQ/master.m3u8
-# Insync channel logo (vector mirror). [10](https://seeklogo.com/vector-logo/326253/sky-news)
-
-#EXTINF:-1 tvg-id="BalleBalle.balleballe" tvg-name="Balle Balle TV" tvg-logo="https://images.seeklogo.com/logo-png/38/1/balle-balle-tv-logo-png_seeklogo-380271.png" group-title="Music",Balle Balle
-https://d35j504z0x2vu2.cloudfront.net/master/v16master.m3u8
-# Balle Balle TV (vector mirror). [10](https://seeklogo.com/vector-logo/326253/sky-news)
-
-#EXTINF:-1 tvg-id="GTCPunjabi.gtcpunjabi" tvg-name="GTC Punjabi" tvg-logo="https://images.seeklogo.com/logo-png/10/1/gtc-punjabi-logo-png_seeklogo-101838.png" group-title="Music",GTC Punjabi
-https://streamingtv.in/g9z31PGJ/5375.m3u8
-# GTC Punjabi (vector mirror). [10](https://seeklogo.com/vector-logo/326253/sky-news)
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
