@@ -68,19 +68,19 @@ https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 #EXTINF:-1 tvg-id="AasthaTV.in" tvg-name="Aastha TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/640px-Aastha_Logo.svg.png" group-title="Devotional",Aastha TV
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooBhakti.shemaroo_bhakti" tvg-name="Shemaroo Bhakti" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/Bhakti.jpg" group-title="Religious",Shemaroo Bhakti
+#EXTINF:-1 tvg-id="ShemarooBhakti.shemaroo_bhakti" tvg-name="Shemaroo Bhakti" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/Bhakti.jpg" group-title="Devotional",Shemaroo Bhakti
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 tvg-id="AasthaPrime.aastha_prime" tvg-name="Aastha Prime" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aastha-prime-in.png" group-title="Religious",Aastha Prime
+#EXTINF:-1 tvg-id="AasthaPrime.aastha_prime" tvg-name="Aastha Prime" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aastha-prime-in.png" group-title="Devotional",Aastha Prime
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="BhaktiSagar.bhakti_sagar" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Religious",Bhakti Sagar
+#EXTINF:-1 tvg-id="BhaktiSagar.bhakti_sagar" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Devotional",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 
-#EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" tvg-logo="https://divya.tv/wp-content/uploads/2023/10/divya-tv-logo-about.png" group-title="Religious",Divya
+#EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" tvg-logo="https://divya.tv/wp-content/uploads/2023/10/divya-tv-logo-about.png" group-title="Devotional",Divya
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PeaceOfMind.peaceofmind" tvg-name="Peace of Mind" tvg-logo="https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png" group-title="Religious",Peace of Mind
+#EXTINF:-1 tvg-id="PeaceOfMind.peaceofmind" tvg-name="Peace of Mind" tvg-logo="https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png" group-title="Devotional",Peace of Mind
 https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
