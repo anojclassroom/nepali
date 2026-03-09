@@ -92,18 +92,6 @@ https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 #EXTINF:-1 tvg-id="Sanskar.sanskar" tvg-name="Sanskar TV" tvg-logo="https://brandfetch.com/sanskargroup.in/logo" group-title="Religious",Shankar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
-#EXTINF:-1 tvg-id="AajTak.aajtak" tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Aaj_tak_logo.png" group-title="News",AajTak
-https://feeds.intoday.in/aajtak/api/master.m3u8
-
-#EXTINF:-1 tvg-id="ABPNews.abpnews" tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/ABP_News_logo.jpg" group-title="News",ABP News
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-
-#EXTINF:-1 tvg-id="IndiaTV.indiatv" tvg-name="India TV" tvg-logo="https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png" group-title="News",Indiatv
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Zee_News_2025.svg" group-title="News",Znews
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-
 #EXTINF:-1 tvg-id="9xm.9xm" tvg-name="9xm" group-title="Music",9xm
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
@@ -196,6 +184,18 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment",Baywatch
 https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.aajtak" tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Aaj_tak_logo.png" group-title="News",AajTak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.abpnews" tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/ABP_News_logo.jpg" group-title="News",ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV.indiatv" tvg-name="India TV" tvg-logo="https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png" group-title="News",Indiatv
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Zee_News_2025.svg" group-title="News",Znews
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_(2013).svg" group-title="News",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
