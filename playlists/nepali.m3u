@@ -216,13 +216,15 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.skynews" tvg-name="Sky News" tvg-logo="https://en.wikipedia.org/wiki/File:Sky_News_2015_%28logo%29.svg#/media/File:Sky_News_2015_(logo).svg" group-title="News",Sky News
-https://d2xqcdchp9s8kh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-stitch-ea1n7mveuoujf-ssai-prd/master.m3u8
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+
 
 #EXTINF:-1 tvg-id="CNA.cna" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNA_new_logo.svg" group-title="News",CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43a39b0c1f78100d266e/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorld.nhkworld" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/NHK_World-Japan_TV.svg" group-title="News",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+http://103.175.73.12:8080/live/417/417_0.m3u8
+
 
 #EXTINF:-1 tvg-id="RT.rt" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/RT_Logo.svg" group-title="News",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
