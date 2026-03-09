@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" tvg-logo="https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/Kantipur-TV-Logo-HD-14122017073526.jpg" group-title="Nepal",Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal",Public TV
+#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" tvg-logo="https://seeklogo.com/images/P/public-tv-logo-209593.png" group-title="Nepal",Public TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" tvg-logo="https://tvtoday.com.np/logo/tvtoday_01.png" group-title="Nepal",TV Today 
