@@ -35,10 +35,10 @@ http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal",TV Today
 https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" group-title="Nepal",Divyadarshan
+#EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" tvg-logo="https://divyadarshantv.com/wp-content/uploads/2020/06/Divya-Darshan_tvlogo.png" group-title="Nepal",Divyadarshan
 http://live.divyadarshantv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" group-title="Nepal",Nepal Mandal
+#EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" tvg-logo="https://vianet.com.np/images/channel-list/Nepali/NEPAL-MANDAL.png" group-title="Nepal",Nepal Mandal
 http://103.96.246.211:8000/main
 
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Entertainment",Dangal TV
