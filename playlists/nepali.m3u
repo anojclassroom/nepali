@@ -65,7 +65,7 @@ http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 
-#EXTINF:-1 tvg-id="Aastha.astha" tvg-name="Aastha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Aastha_Logo.svg" group-title="Religious",Aastha
+#EXTINF:-1 tvg-id="AasthaTV.in" tvg-name="Aastha TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/640px-Aastha_Logo.svg.png" group-title="Devotional",Aastha TV
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooBhakti.shemaroo_bhakti" tvg-name="Shemaroo Bhakti" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/Bhakti.jpg" group-title="Religious",Shemaroo Bhakti
