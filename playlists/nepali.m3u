@@ -174,16 +174,16 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodFood.foodfood" tvg-name="Food Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Food_Food_logo.png" group-title="Infotainment",Food Food
-https://amg01455-foodfoodtv-fast-amagi-com.akamaized.net/amg01455-foodfoodtv-fast/playlist.m3u8
+http://45.148.145.57/IN_FOODFOOD/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TLC-Logo_2016.svg" group-title="Infotainment",TLC HD
-https://d35j504z0x2vu2.cloudfront.net/master/v15master.m3u8
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 
 #EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Geo_TV_logo.png" group-title="Infotainment",Har Pal Geo
-https://yuppfast.akamaized.net/harpalgeo/harpalgeo/playlist.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverPakistan.discoverpakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Discover_Pakistan_TV_Logo.png" group-title="Infotainment",Discover Pakistan
-https://streamingtv4.com/hls/discoverpakistan.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=wild+earth" group-title="Infotainment", wild earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -191,8 +191,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=bbc+earth" group-title="Infotainment", bbc earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=dance+mom" group-title="Infotainment", dance mom
-https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e968295/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",Dance Mom
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Anger+management" group-title="Infotainment", Anger management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
