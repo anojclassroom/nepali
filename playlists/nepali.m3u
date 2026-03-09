@@ -17,29 +17,41 @@ https://ntv.onrender.com/ntv/ntv-itahari
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" group-title="Nepal",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" group-title="Nepal",Mithila TV
-http://150.107.205.212:1935/live/mithila/playlist.m3u8
+#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" tvg-logo="https://tvtoday.com.np/logo/tvtoday_01.png" group-title="Nepal",TV Today [1](https://tvtoday.com.np/)
+https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" group-title="Nepal",Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-
-#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" group-title="Nepal",Kantipur TV HD
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" tvg-logo="https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/Kantipur-TV-Logo-HD-14122017073526.jpg" group-title="Nepal",Kantipur TV HD [2](https://presoffministry.gov.mm/en/news/16986)
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" group-title="Nepal",Indigenous TV
+#EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/99/34/c39934a0-1e68-c2a9-d09a-8a6a9bfd258d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/1200x630wa.png" group-title="Nepal",Indigenous TV [3](https://www.lyngsat.com/tvchannels/np/NTV-Plus.html)
 http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PublicTV.public" tvg-name="Public TV" group-title="Nepal",Public TV
-http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila TV [4](https://www.youtube.com/watch?v=tP2EM8eC5ws)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" group-title="Nepal",TV Today
-https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/Capital_Tv_HD-1.jpg" group-title="Nepal",Capital TV [5](https://nettv.com.np/)
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
 #EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" tvg-logo="https://divyadarshantv.com/wp-content/uploads/2020/06/Divya-Darshan_tvlogo.png" group-title="Nepal",Divyadarshan
 http://live.divyadarshantv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" tvg-logo="https://vianet.com.np/images/channel-list/Nepali/NEPAL-MANDAL.png" group-title="Nepal",Nepal Mandal
 http://103.96.246.211:8000/main
+
+#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV
+https://ntv.onrender.com/ntv/ntv
+
+#EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/NTV_News_HD-1.jpg" group-title="Nepal",NTV News
+https://ntv.onrender.com/ntv/ntv-news
+
+#EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-kohalpur-np.png" group-title="Nepal",NTV Kohalpur
+https://ntv.onrender.com/ntv/ntv-kohalpur
+
+#EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/NTV-ITAHARI-HD.png" group-title="Nepal",NTV Itahari
+https://ntv.onrender.com/ntv/ntv-itahari
+
+#EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
+https://ntv.onrender.com/ntv/ntv-world
 
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
