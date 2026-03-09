@@ -185,9 +185,11 @@ https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="SkyNews.skynews" tvg-name="Sky News" tvg-logo="https://en.wikipedia.org/wiki/File:Sky_News_2015_%28logo%29.svg#/media/File:Sky_News_2015_(logo).svg" group-title="News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 
-
 #EXTINF:-1 tvg-id="CNA.cna" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNA_new_logo.svg" group-title="News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",And Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
