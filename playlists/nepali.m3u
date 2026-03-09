@@ -38,35 +38,36 @@ https://ntv.onrender.com/ntv/ntv-itahari
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" group-title="Entertainment",Dangal TV
+#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://www.adgully.com/img/800/202004/logo-dangal-tv.jpg" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal2" group-title="Entertainment",Dangal2 TV
+#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal2 TV
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" group-title="Entertainment",Manoranjan
+#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599190s.jpg" group-title="Entertainment",Manoranjan
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 
-#EXTINF:-1 tvg-id="Manoranjan grand.manoranjan grand" tvg-name="Manoranjan Grand" group-title="Entertainment",Manoranjan Grand
+#EXTINF:-1 tvg-id="ManoranjanGrand.manoranjan_grand" tvg-name="Manoranjan Grand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg" group-title="Entertainment",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
-#EXTINF:-1 tvg-id="Shemarro Umang.shemarro umang" tvg-name="Shemarro Umang" group-title="Entertainment",Shemaroo Umang
+#EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
-#EXTINF:-1 tvg-id="Shemaroo Chumbak.shemarro chumbak" tvg-name="Shemaroo Chumbak" group-title="Entertainment",Shemaroo TV
+#EXTINF:-1 tvg-id="ShemarooTV.shemaroo_tv" tvg-name="Shemaroo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Shemaroo_TV.png" group-title="Entertainment",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sub.sub" tvg-name="Sub" group-title="Entertainment",Sub
+#EXTINF:-1 tvg-id="SonySAB.sab" tvg-name="Sony SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/sony-sab.png" group-title="Entertainment",Sub
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+TV" group-title="Entertainment", Panjabi TV
+#EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urqtsu1480365710.png" group-title="Entertainment",Panjabi TV
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Unique+TV" group-title="Entertainment", Unique TV
+#EXTINF:-1 tvg-id="UniqueTV.unique" tvg-name="Unique TV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/unique-tv.gif" group-title="Entertainment",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Durdarsan" group-title="Entertainment", Durdarsan
+#EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Astha.astha" tvg-name="Astha" group-title="Religious",Astha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
