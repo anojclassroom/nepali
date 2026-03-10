@@ -41,6 +41,9 @@ https://ntv.onrender.com/ntv/ntv-world
 #EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Geo_TV_logo.png" group-title="Entertainment",Har Pal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="",Aur Life
+http://124.109.47.101/hls/stream1.m3u8
+
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://www.adgully.com/img/800/202004/logo-dangal-tv.jpg" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
@@ -306,8 +309,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 #EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="",Aur Life
-http://124.109.47.101/hls/stream1.m3u8
+
 
 
 
