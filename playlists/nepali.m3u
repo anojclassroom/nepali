@@ -303,6 +303,9 @@ http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-name="Star Select" tvg-id="sonymax.in" tvg-logo="",Star Select
 http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 
+#EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+
 
 
 
