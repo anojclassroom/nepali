@@ -248,41 +248,42 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-sa
 #EXTINF:-1 tvg-id="UniqueTV.unique" tvg-name="Unique TV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/unique-tv.gif" group-title="Kids",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Flix
+#EXTINF:-1 group-title="Prime" tvg-name="&flix" tvg-id="andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%26flix_logo.png/258px-%26flix_logo.png",& Flix
 http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Picture
+#EXTINF:-1 group-title="Prime" tvg-name="&pictures" tvg-id="andpictures.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%26pictures.png/284px-%26pictures.png",& Picture
 http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& TV
+#EXTINF:-1 group-title="Prime" tvg-name="&TV" tvg-id="andtv.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%26TV_logo_2019.svg/800px-%26TV_logo_2019.svg.png",& TV
 http://103.229.254.25:7001/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Explore
+#EXTINF:-1 group-title="Prime" tvg-name="&xplorHD" tvg-id="andxplor.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%26xplor_HD.svg/800px-%26xplor_HD.svg.png",& Explore
 http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="",Digney J
-http://103.229.254.25:7001/play/a09r/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",Color
+#EXTINF:-1 group-title="Prime" tvg-name="Colors" tvg-id="colorstv.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/800px-Colors_TV_logo.svg.png",Color
 http://103.229.254.25:7001/play/a077/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="",YRF
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",Zee Cinema
+#EXTINF:-1 group-title="Prime" tvg-name="Zee Cinema" tvg-id="zeecinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/800px-Zee_Cinema_2025.svg.png",Zee Cinema
 http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Zee TV
+#EXTINF:-1 group-title="Prime" tvg-name="Zee TV" tvg-id="zeetv.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/800px-Zee_TV_2025.svg.png",Zee TV
 http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Zee Zest
+#EXTINF:-1 group-title="Prime" tvg-name="Zee Zest" tvg-id="zeezest.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Zest_2025_Logo.svg/800px-Zee_Zest_2025_Logo.svg.png",Zee Zest
 http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="", Zing
-http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Star Plus
+#EXTINF:-1 group-title="Prime" tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-plus-logo-png_seeklogo-521039.png",Star Plus
 http://103.229.254.25:7001/play/a09p/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Sony Max
+#EXTINF:-1 group-title="Prime" tvg-name="Sony Max" tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX.svg/800px-Sony_MAX.svg.png",Sony Max
 http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Disney Junior" tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_Disney_Junior_logo.svg/800px-2019_Disney_Junior_logo.svg.png",Disney Junior
+http://103.229.254.25:7001/play/a09r/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-name="Zing" tvg-id="zing.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zing_2011_logo.svg/800px-Zing_2011_logo.svg.png",Zing
+http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
+
