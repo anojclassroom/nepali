@@ -306,6 +306,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 #EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="",Aur Life
+http://124.109.47.101/hls/stream1.m3u8
+
 
 
 
