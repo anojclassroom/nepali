@@ -247,3 +247,42 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-sa
 
 #EXTINF:-1 tvg-id="UniqueTV.unique" tvg-name="Unique TV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/unique-tv.gif" group-title="Kids",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Flix
+http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Picture
+http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& TV
+http://103.229.254.25:7001/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",& Explore
+http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="",Digney J
+http://103.229.254.25:7001/play/a09r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",Color
+http://103.229.254.25:7001/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="",Zee Cinema
+http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Zee TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Zee Zest
+http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="", Zing
+http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Star Plus
+http://103.229.254.25:7001/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Prime" tvg-logo="", Sony Max
+http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
