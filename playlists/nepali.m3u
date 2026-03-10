@@ -128,6 +128,12 @@ https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+music" group-title="Music", Panjabi music
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-name="Zing" tvg-id="zing.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zing_2011_logo.svg/800px-Zing_2011_logo.svg.png",Zing
+http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -288,9 +294,5 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-name="Disney Junior" tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_Disney_Junior_logo.svg/800px-2019_Disney_Junior_logo.svg.png",Disney Junior
 http://103.229.254.25:7001/play/a09r/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-name="Zing" tvg-id="zing.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zing_2011_logo.svg/800px-Zing_2011_logo.svg.png",Zing
-http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
 
