@@ -65,7 +65,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 #EXTINF:-1 tvg-id="SonySAB.sab" tvg-name="Sony SAB" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-SAB-HD.png" group-title="Prime",Sub
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
-#EXTINF:-1 group-title="Prime" tvg-name="Colors" tvg-id="colorstv.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Color-HD.png",Color
+#EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors (576p)
 http://103.229.254.25:7001/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
@@ -269,10 +269,10 @@ https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-name="Disney Junior" tvg-id="disneyjunior.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/DISCOVERY-KIDS.png",Disney Junior
 http://103.229.254.25:7001/play/a09r/index.m3u8
 
-#EXTINF:-1 group-title="Prime" tvg-name="&flix" tvg-id="andflix.in" tvg-logo="",& Flix
+#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8
 
-#EXTINF:-1 group-title="Prime" tvg-name="&pictures" tvg-id="andpictures.in" tvg-logo="",& Picture
+#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&pictures HD (1080p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8
 
 #EXTINF:-1 group-title="Prime" tvg-name="&TV" tvg-id="andtv.in" tvg-logo="",& TV
@@ -290,7 +290,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
 #EXTINF:-1 group-title="Prime" tvg-name="Zee TV" tvg-id="zeetv.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-TV-HD-TRNS.png",Zee TV
 http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 
-#EXTINF:-1 group-title="Prime" tvg-name="Zee Zest" tvg-id="zeezest.in" tvg-logo="",Zee Zest
+#EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Infotainment",Zee Zest HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
 
 #EXTINF:-1 group-title="Prime" tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Plus-HD.png",Star Plus
