@@ -59,7 +59,7 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooTV.shemaroo_tv" tvg-name="Shemaroo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Shemaroo_TV.png" group-title="Entertainment",Shemaroo Josh
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonySAB.sab" tvg-name="Sony SAB" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-SAB-HD.png" group-title="Prime",Sub
@@ -71,7 +71,7 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 
-#EXTINF:-1 tvg-id="AasthaTV.in" tvg-name="Aastha TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/640px-Aastha_Logo.svg.png" group-title="Devotional",Aastha TV
+#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooBhakti.shemaroo_bhakti" tvg-name="Shemaroo Bhakti" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/Bhakti.jpg" group-title="Devotional",Shemaroo Bhakti
@@ -92,10 +92,10 @@ https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
-#EXTINF:-1 tvg-id="9XM.9XM" tvg-name="9XM" group-title="Music",9XM
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",9x jalwa
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music",9X Jalwa (1080p)
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
