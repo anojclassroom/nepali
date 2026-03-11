@@ -146,7 +146,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodFood.foodfood" tvg-name="Food Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Food_Food_logo.png" group-title="Infotainment",Food Food
 http://45.148.145.57/IN_FOODFOOD/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TLC-Logo_2016.svg" group-title="Infotainment",TLC HD
+#EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/tlc-hd.png" group-title="Infotainment",TLC HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverPakistan.discoverpakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Discover_Pakistan_TV_Logo.png" group-title="Infotainment",Discover Pakistan
@@ -185,7 +185,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_(2013).svg" group-title="News",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNN (US)
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/cnn-international.png",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
