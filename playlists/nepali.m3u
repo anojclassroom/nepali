@@ -203,11 +203,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/aljazeera.png
-"News",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/aljazeera.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",And Prive HD
+#EXTINF:-1 tvg-logo="" group-title="Movies", And Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="Movies" group-title="",Action Hollywood Movies
