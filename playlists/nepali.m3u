@@ -293,7 +293,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 #EXTINF:-1 group-title="Prime" tvg-name="Zee Zest" tvg-id="zeezest.in" tvg-logo="",Zee Zest
 http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
 
-#EXTINF:-1 group-title="Prime" tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-plus-logo-png_seeklogo-521039.png",Star Plus
+#EXTINF:-1 group-title="Prime" tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Plus-HD.png",Star Plus
 http://103.229.254.25:7001/play/a09p/index.m3u8
 
 #EXTINF:-1 group-title="Prime" tvg-name="Sony Max" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-MAX-HD.png",Sony Max
