@@ -116,17 +116,17 @@ https://mumt04.tangotv.in/INSYNC/index.m3u8
 #EXTINF:-1 tvg-id="250" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="Zoomint.zoomint" tvg-name="Zoomint" group-title="Music",Zoomint
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urqtsu1480365710.png" group-title="Music",Panjabi TV
-https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM Int
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM TV
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music", E24
 https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urqtsu1480365710.png" group-title="Music",Panjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH1" group-title="Music", MH1
 https://mumt04.tangotv.in/MHONE/index.m3u8
@@ -333,9 +333,6 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM TV
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
