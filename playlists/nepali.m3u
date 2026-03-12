@@ -107,7 +107,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Music",Geomusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Balleballe.balleballe" tvg-name="Balle Balle" group-title="Music",Balle Balle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ea3HwKY8RVdz4wfh7D50dCgZYp89Tz0IGQ&s" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Insync.insync" tvg-name="Insync" group-title="Music",Insync
