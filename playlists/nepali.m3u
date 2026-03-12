@@ -213,7 +213,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/aljazeera.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" http-referrer="https://onezoo.net" group-title="Movies",&prive HD (1080p)
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" http-referrer="https://onezoo.net" group-title="Movies",&prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="Movies" group-title="",Action Hollywood Movies
@@ -303,24 +303,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="Explore" tvg-id="explore.in" tvg-logo="",Explore
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Bollywood (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeclassic
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Anmol (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeanmol
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Talkies (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Talkies (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-http://103.161.153.165:8000/play/a05a/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-name="Star Select" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Movies-Select-HD.png",Star Select
 http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 
@@ -335,23 +317,6 @@ http://103.229.254.25:7001/play/a0cx/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Bollywood (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeclassic
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Anmol (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeanmol
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Talkies (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="Movies",Zee Talkies (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" group-title="Movies",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
