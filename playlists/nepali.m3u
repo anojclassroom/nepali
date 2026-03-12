@@ -38,14 +38,17 @@ https://ntv.onrender.com/ntv/ntv-itahari
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Geo_TV_logo.png" group-title="Entertainment",Har Pal Geo
+#EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://images.brandfetch.io/harpalgeo.tv/monochrome/logo.png" group-title="Entertainment",Har Pal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="",Aur Life
+#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",Aur Life
 http://124.109.47.101/hls/stream1.m3u8
 
-#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://www.adgully.com/img/800/202004/logo-dangal-tv.jpg" group-title="Entertainment",Dangal TV
+#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://seeklogo.com/images/D/dangal-logo-8ED87526E7-seeklogo.com.png" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.discoverpakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", group-title="Infotainment" Discover Pakistan
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal2 TV
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
