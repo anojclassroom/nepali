@@ -137,7 +137,6 @@ https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" group-title="Music",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+music" group-title="Music", Panjabi music
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
@@ -180,7 +179,7 @@ https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="AajTak.aajtak" tvg-name="Aaj Tak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="News",AajTak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg" group-title="News",ABP News
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.indiatv" tvg-name="India TV" tvg-logo="https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png" group-title="News",Indiatv
