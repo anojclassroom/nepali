@@ -312,10 +312,11 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Prime" tvg-name="Zee Cafe" tvg-id="Zee.in" tvg-logo="",Zee Cafe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 http://103.229.254.25:7001/play/a0cx/index.m3u8
+
+#EXTINF:-1 group-title="Prime" tvg-name="Zee Cafe" tvg-id="Zee.in" tvg-logo="",Zee Cafe
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World1" tvg-logo="https://static.cdnlogo.com/logos/z/12/zee-world.png" group-title="Entertainment",Zee World1
 #KODIPROP:inputstream=inputstream.adaptive
