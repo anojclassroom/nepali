@@ -320,7 +320,7 @@ http://103.229.254.25:7001/play/a0cx/index.m3u8
 #EXTINF:-1 group-title="Prime" tvg-name="Zee Bangla" tvg-id="ZeeBangla.in@HD" tvg-logo="",Zee Bangla
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World1" tvg-logo="https://www.facebook.com/photo/?fbid=393461976314574&set=a.393461946314577" group-title="Entertainment",Zee World
+#EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World1" tvg-logo="https://www.clipartmax.com/max/m2i8b1K9H7N4Z5G6/" group-title="Entertainment",Zee One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
