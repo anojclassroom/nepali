@@ -305,7 +305,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="Sony Max" tvg-id="sonymax.in" tvg-logo="",Explore
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-name="Super Hangama" tvg-id="sonymax.in" tvg-logo="",Super Hangama
+#EXTINF:-1 group-title="Kids" tvg-name="Super Hangama" tvg-id="sonymax.in" tvg-logo="",Super Hangama 
 stream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
