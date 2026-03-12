@@ -36,6 +36,9 @@ https://ntv.onrender.com/ntv/ntv-kohalpur
 https://ntv.onrender.com/ntv/ntv-itahari
 
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
+stream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 https://ntv.onrender.com/ntv/ntv-world
 
 #EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Geo_TV_logo.png" group-title="Entertainment",Har Pal Geo
@@ -303,6 +306,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-name="Super Hangama" tvg-id="sonymax.in" tvg-logo="",Super Hangama
+stream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 http://103.161.153.165:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-name="Star Select" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Movies-Select-HD.png",Star Select
