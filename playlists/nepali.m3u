@@ -47,7 +47,7 @@ http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.discoverpakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", group-title="Infotainment" Discover Pakistan
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://www.pngwing.com/pt/free-png-kkqte" group-title="Entertainment",Dangal TV
+#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png"group-title="Entertainment", Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal2 TV
