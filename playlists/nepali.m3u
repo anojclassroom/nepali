@@ -44,7 +44,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",Aur Life
 http://124.109.47.101/hls/stream1.m3u8
 
-#EXTINF:-1 tvg-id="DiscoverPakistan.discoverpakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", group-title="Infotainment" Discover Pakistan
+#EXTINF:-1 group-title="Infotainment" tvg-name="Pak" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", Discover Pakistan
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png"group-title="Entertainment", Dangal TV
