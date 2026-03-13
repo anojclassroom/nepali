@@ -131,13 +131,13 @@ https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH1" group-title="Music", MH1
 https://mumt04.tangotv.in/MHONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Tadka+tv" group-title="Music", Tadka tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Punjabi_Tadka.jpg", group-title="Music", Tadka tv
 https://mumt03.tangotv.in/TADKA/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" group-title="Music",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Panjabi+music" group-title="Music", Panjabi music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg" group-title="Music", Panjabi music
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF
@@ -212,16 +212,16 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/aljazeera.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" http-referrer="https://onezoo.net" group-title="Movies",&prive HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg" group-title="Movies",&Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="Movies" group-title="",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-logo="",Geo Cenema
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN7poCGCn2wpvwsE-emoBFQBMw0egdtJyw6yXAJ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", Geo Cenema
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM.png", NH Bolly Flix
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iu-lMIUrmWoHu82BAKBaj-q-Ma4gaiRu2NujUNHm2deKxQPaQnMQ0VvoI8qVKYYEwT8sSVJpVSM=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bollywood%20HD.png",BOLLYWOOD HD
@@ -254,7 +254,7 @@ http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH+Movie" group-title="Movies", MH Movie
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Digney+HD" group-title="Kids", Digney HD
+#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Digney+HD" group-title="Kids", Disney HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 #EXTINF:-1 tvg-id="ETVBalBharat.etvbalbharat" tvg-name="ETV Bal Bharat" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/etv-bal-bharat-logo.jpg" group-title="Kids",ETV Bal Bharat
@@ -307,9 +307,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Prime" tvg-name="Zee Cafe" tvg-id="Zee.in" tvg-logo="",Zee Cafe
-http://103.229.254.25:7001/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World1" tvg-logo="" group-title="Entertainment",Zee One
 #KODIPROP:inputstream=inputstream.adaptive
