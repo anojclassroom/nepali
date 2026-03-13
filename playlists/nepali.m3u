@@ -1,4 +1,39 @@
 #EXTM3U
+# Primary: NTV’s official live hub (selects the NTV feed)
+#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV (Official)
+https://live.ntv.org.np/
+# Fallback: Official NTV YouTube (Live)
+#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV (YouTube Live)
+https://www.youtube.com/@nepaltelevision/live
+
+# Primary: NTV live hub (choose NTV News in the player UI)
+#EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/NTV_News_HD-1.jpg" group-title="Nepal",NTV News (Official)
+https://live.ntv.org.np/
+# Fallback: NTV main YouTube channel (News streams frequently simulcast here)
+#EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/NTV_News_HD-1.jpg" group-title="Nepal",NTV News (YouTube)
+https://www.youtube.com/@nepaltelevision
+
+# Primary: NTV live hub (choose NTV Kohalpur)
+#EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-kohalpur-np.png" group-title="Nepal",NTV Kohalpur (Official)
+https://live.ntv.org.np/
+# Fallback: Official NTV Kohalpur YouTube channel
+#EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-kohalpur-np.png" group-title="Nepal",NTV Kohalpur (YouTube)
+https://www.youtube.com/@psbntvk/live
+
+# Primary: NTV live hub (choose NTV Itahari)
+#EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/NTV-ITAHARI-HD.png" group-title="Nepal",NTV Itahari (Official)
+https://live.ntv.org.np/
+# Fallback: Official NTV Itahari YouTube channel
+#EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/NTV-ITAHARI-HD.png" group-title="Nepal",NTV Itahari (YouTube)
+https://www.youtube.com/@NTVITAHARI-td2vo/live
+
+# Primary: NTV live hub (choose NTV WORLD)
+#EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World (Official)
+https://live.ntv.org.np/
+# Fallback: Official NTV World YouTube live stream
+#EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World (YouTube Live)
+https://www.youtube.com/@ntvworldnepal/live
+
 #EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" tvg-logo="https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/Kantipur-TV-Logo-HD-14122017073526.jpg" group-title="Nepal",Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
