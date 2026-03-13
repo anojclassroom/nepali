@@ -105,7 +105,7 @@ https://mumt03.tangotv.in/9XJALWA/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg",HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Joo_Music?file=Joo_Music.png" group-title="Music",Joo Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ea3HwKY8RVdz4wfh7D50dCgZYp89Tz0IGQ&s" group-title="Music",Balle Balle
@@ -129,16 +129,16 @@ https://mumt04.tangotv.in/E24/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urqtsu1480365710.png" group-title="Music",Panjabi TV
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH1" group-title="Music", MH1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_PMogxfCJs9ZnV1y7nRAIvu1jZizzl30FN4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music", MH1
 https://mumt04.tangotv.in/MHONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Punjabi_Tadka.jpg", group-title="Music", Tadka tv
 https://mumt03.tangotv.in/TADKA/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCPunjabiGold.in" group-title="Music",PTC Punjabi Gold
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Music", PTC Puljabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg" group-title="Music", Panjabi music
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/2/9/25/imgbin-channel-punjabi-punjabi-language-television-channel-broadcasting-others-hKZ85U45mYzBHjD0bdYS0KERY.jpg" group-title="Music", Panjabi music
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF
@@ -189,22 +189,22 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-NEWS.png"News",Znews
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
-#EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_(2013).svg" group-title="News",France 24
+#EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-24-logo.png",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/cnn-international.png",CNN (US)
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://www.pngitem.com/pimgs/m/286-2865678_cgtn-logo-png-transparent-png.png",CGTN
 https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews.skynews" tvg-name="Sky News" tvg-logo="https://en.wikipedia.org/wiki/File:Sky_News_2015_%28logo%29.svg#/media/File:Sky_News_2015_(logo).svg" group-title="News",Sky News
+#EXTINF:-1 tvg-id="SkyNews.skynews" tvg-name="Sky News" tvg-logo="https://www.liblogo.com/img-logo/sk4223sc73-sky-news-logo-sky-news-logo-png-transparent-amp-svg-vector-freebie-supply.png" group-title="News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 
-#EXTINF:-1 tvg-id="CNA.cna" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNA_new_logo.svg" group-title="News",CNA News
+#EXTINF:-1 tvg-id="CNA.cna" tvg-name="CNA" tvg-logo="https://images.seeklogo.com/logo-png/40/1/cna-channel-news-asia-1999-2019-logo-png_seeklogo-400170.png" group-title="News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", RT News
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/15/21/imgbin-rt-russia-google-news-whataboutism-russia-JmKqcZN1MCUwQpZVFE7abf5da.jpg" group-title="News", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/BBC-News.png" group-title="News",BBC News
@@ -243,19 +243,19 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldminesbollywood.bolly" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Goldmines Bollywood
+#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Goldmines-Bollywood-min.png" group-title="Movies",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_41_56-PM.png" group-title="Movies",Goldmines Movies 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex
 http://103.182.170.32:8888/play/a01o
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=MH+Movie" group-title="Movies", MH Movie
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" group-title="Movies", MH Movie
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Digney+HD" group-title="Kids", Disney HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/52/582/png-transparent-disney-channel-hd-logo.png" group-title="Kids", Disney HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 #EXTINF:-1 tvg-id="ETVBalBharat.etvbalbharat" tvg-name="ETV Bal Bharat" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/etv-bal-bharat-logo.jpg" group-title="Kids",ETV Bal Bharat
