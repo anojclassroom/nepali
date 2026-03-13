@@ -299,13 +299,13 @@ http://103.229.254.25:7001/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Prime" tvg-name="Sony Max" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-MAX-HD.png",Sony Max
 http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-name="Explore" tvg-id="explore.in" tvg-logo="",Explore
+#EXTINF:-1 group-title="Infotainment" tvg-name="Explore" tvg-id="explore.in" tvg-logo="https://explore-tv.com/img/header/exploretv-logo.png", Explore
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-name="Star Select" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Movies-Select-HD.png",Star Select
 http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="",Geo News
+#EXTINF:-1 group-title="News" tvg-name="Geo" tvg-id="Geo.pk" tvg-logo="https://vectorseek.com/wp-content/uploads/2020/12/Geo-news-logo-vector.png",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World1" tvg-logo="" group-title="Entertainment",Zee One
