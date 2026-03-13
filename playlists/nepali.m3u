@@ -126,7 +126,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music", E24
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urqtsu1480365710.png" group-title="Music",Panjabi TV
+#EXTINF:-1 tvg-id="PunjabiTV.punjabi_tv" tvg-name="Punjabi TV" tvg-logo="https://e7.pngegg.com/pngimages/9/62/png-clipart-channel-punjabi-punjabi-language-television-channel-broadcasting-others-miscellaneous-television.png" group-title="Music",Panjabi TV
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_PMogxfCJs9ZnV1y7nRAIvu1jZizzl30FN4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music", MH1
@@ -192,7 +192,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-24-logo.png",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",CNN
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://www.pngitem.com/pimgs/m/286-2865678_cgtn-logo-png-transparent-png.png",CGTN
@@ -228,7 +228,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bollywood%20HD.png",BOLLYWOOD HD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Bollywood Movies
+#EXTINF:-1 tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Movies",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Movies" group-title="",B4U Movies 
