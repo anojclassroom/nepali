@@ -66,11 +66,8 @@ https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonySAB.sab" tvg-name="Sony SAB" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-SAB-HD.png" group-title="Prime",Sub
-http://103.229.254.25:7001/play/a09s/index.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors
-http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
@@ -255,9 +252,6 @@ http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" group-title="Movies", MH Movie
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/52/582/png-transparent-disney-channel-hd-logo.png" group-title="Kids", Disney HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
-
 #EXTINF:-1 tvg-id="ETVBalBharat.etvbalbharat" tvg-name="ETV Bal Bharat" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/etv-bal-bharat-logo.jpg" group-title="Kids",ETV Bal Bharat
 http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 
@@ -327,10 +321,17 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3q7hOZZ13Ctb2sYwZ8DlCn23p8YypdoYv0YSl41VAfhjCSsol-rGM4eOhjhre8I8f6adk95WWGg=s160-c-k-c0x00ffffff-no-rj", group-title="Movies", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="SonySAB.sab" tvg-name="Sony SAB" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-SAB-HD.png" group-title="Prime",Sub
+http://103.229.254.25:7001/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Prime",Colors
+http://103.229.254.25:7001/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/52/582/png-transparent-disney-channel-hd-logo.png" group-title="Prime", Disney HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 
 
