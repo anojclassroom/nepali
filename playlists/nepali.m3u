@@ -39,39 +39,6 @@ https://ntv.onrender.com/ntv/ntv-itahari
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
 https://ntv.onrender.com/ntv/ntv-world
 
-#EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://i.imgur.com/NX3vvAX.png" group-title="Entertainment",Har Pal Geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",Aur Life
-http://124.109.47.101/hls/stream1.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-name="Pak" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", Discover Pakistan
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png"group-title="Entertainment", Dangal TV
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal2 TV
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599190s.jpg" group-title="Entertainment",Manoranjan
-https://cdn-1.pishow.tv/live/1013/master.m3u8
-
-#EXTINF:-1 tvg-id="ManoranjanGrand.manoranjan_grand" tvg-name="Manoranjan Grand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg" group-title="Entertainment",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8
-
-#EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
-https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
@@ -143,6 +110,36 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 group-title="Music" tvg-name="Zing" tvg-id="zing.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/zing.png",Zing
 http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
+
+#EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://i.imgur.com/NX3vvAX.png" group-title="Entertainment",Har Pal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Geo" tvg-id="aur.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",Aur Life
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png"group-title="Entertainment", Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal2 TV
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599190s.jpg" group-title="Entertainment",Manoranjan
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.manoranjan_grand" tvg-name="Manoranjan Grand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg" group-title="Entertainment",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",Durdarsan
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment" tvg-name="Pak" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png", Discover Pakistan
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -330,6 +327,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg" group-title="Prime",&Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
 
