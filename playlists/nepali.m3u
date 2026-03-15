@@ -24,6 +24,68 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" tvg-logo="https://vianet.com.np/images/channel-list/Nepali/NEPAL-MANDAL.png" group-title="Nepal",Nepal Mandal
 http://103.96.246.211:8000/main
 
+
+#EXTM3U url-tvg=""
+############## 1) NTV (National) ##############
+#EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal Television",NTV (National) [Kodi Audio Fix]
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# (Tokened stream from your message – will expire over time)
+https://ntvedge.truestreamz.com/ntvlive/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDEwOjM2OjUzIEFNJmhhc2hfdmFsdWU9OTJHczNsREswb0hUYnE2Y0JheDI1Zz09JnZhbGlkbWludXRlcz0xNSZpZD0x|User-Agent=Mozilla/5.0%20(Kodi)
+
+############## 2) NTV Plus ##############
+#EXTINF:-1 tvg-id="NTVPlus.np" tvg-name="NTV Plus" tvg-logo="https://nepaltvonline.com/wp-content/uploads/2021/02/ntvplus-logo.png" group-title="Nepal Television",NTV Plus
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# >>> Replace URL below with the current HLS (.m3u8) for NTV Plus <<<
+https://REPLACE-WITH-NTV-PLUS.m3u8|User-Agent=Mozilla/5.0%20(Kodi)
+
+############## 3) NTV News ##############
+#EXTINF:-1 tvg-id="NTVNews.np" tvg-name="NTV News" tvg-logo="https://nepaltvonline.com/wp-content/uploads/2021/02/ntvnews-logo.png" group-title="Nepal Television",NTV News
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# >>> Replace URL below with the current HLS (.m3u8) for NTV News <<<
+https://REPLACE-WITH-NTV-NEWS.m3u8|User-Agent=Mozilla/5.0%20(Kodi)
+
+############## 4) NTV Kohalpur ##############
+#EXTINF:-1 tvg-id="NTVKohalpur.np" tvg-name="NTV Kohalpur" tvg-logo="https://nepaltvonline.com/wp-content/uploads/2021/02/ntvkohalpur-logo.png" group-title="Nepal Television",NTV Kohalpur
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# >>> Replace URL below with the current HLS (.m3u8) for NTV Kohalpur <<<
+https://REPLACE-WITH-NTV-KOHALPUR.m3u8|User-Agent=Mozilla/5.0%20(Kodi)
+
+############## 5) NTV Itahari ##############
+#EXTINF:-1 tvg-id="NTVItahari.np" tvg-name="NTV Itahari" tvg-logo="https://nepaltvonline.com/wp-content/uploads/2021/02/ntvitahari-logo.png" group-title="Nepal Television",NTV Itahari
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# >>> Replace URL below with the current HLS (.m3u8) for NTV Itahari <<<
+https://REPLACE-WITH-NTV-ITAHARI.m3u8|User-Agent=Mozilla/5.0%20(Kodi)
+
+############## 6) NTV World ##############
+#EXTINF:-1 tvg-id="NTVWorld.np" tvg-name="NTV World" tvg-logo="https://nepaltvonline.com/wp-content/uploads/2021/02/ntvworld-logo.png" group-title="Nepal Television",NTV World
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+# >>> Replace URL below with the current HLS (.m3u8) for NTV World <<<
+https://REPLACE-WITH-NTV-WORLD.m3u8|User-Agent=Mozilla/5.0%20(Kodi)
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV
 https://ntvedge.truestreamz.com/ntvlive/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDEwOjM2OjUzIEFNJmhhc2hfdmFsdWU9OTJHczNsREswb0hUYnE2Y0JheDI1Zz09JnZhbGlkbWludXRlcz0xNSZpZD0x
 
