@@ -308,6 +308,17 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 #EXTINF:-1 group-title="Unstable" tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Plus-HD.png",Star Plus
 http://103.229.254.25:7001/play/a09p/index.m3u8
 
+
+#EXTINF:-1 group-title="Stable Tests" tvg-name="Sample HLS" tvg-id="sample.hls",Sample HLS (FFmpegDirect)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.livelatch=true
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=2000
+http://103.229.254.25:7001/play/a09p/index.m3u8
+
+
 #EXTINF:-1 group-title="Unstable" tvg-name="Sony Max" tvg-id="sonymax.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-MAX-HD.png",Sony Max
 http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 
