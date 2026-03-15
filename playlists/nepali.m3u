@@ -253,11 +253,27 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 http://103.182.170.32:8888/play/a01o
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
-https://watch.plex.tv/live-tv/channel/shemaroo-bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8?route_version=v2
+
+#EXTINF:-1 tvg-id="Apple.BipBop" group-title="HLS Tests",Apple BipBop (ffmpegdirect)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8|User-Agent=Mozilla/5.0 (Kodi)
+
+#EXTINF:-1 tvg-id="Mux.BBB" group-title="HLS Tests",Big Buck Bunny (ffmpegdirect)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://test-streams.mux.dev/bbb-abr/bbb.m3u8|User-Agent=Mozilla/5.0 (Kodi)
+
+#EXTINF:-1 tvg-id="Unified.Tears" group-title="HLS Tests",Tears of Steel (ffmpegdirect)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8?route_version=v2
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" group-title="Bhojpuri",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
