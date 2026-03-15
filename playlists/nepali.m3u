@@ -25,7 +25,7 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 http://103.96.246.211:8000/main
 
 #EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV
-https://ntv.onrender.com/ntv/ntv
+https://ntvedge.truestreamz.com/ntvlive/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDEwOjM2OjUzIEFNJmhhc2hfdmFsdWU9OTJHczNsREswb0hUYnE2Y0JheDI1Zz09JnZhbGlkbWludXRlcz0xNSZpZD0x
 
 #EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/NTV_News_HD-1.jpg" group-title="Nepal",NTV News
 https://ntv.onrender.com/ntv/ntv-news
