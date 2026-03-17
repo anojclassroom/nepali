@@ -423,38 +423,196 @@ http://103.229.254.25:7001/play/a03f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi And
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-id="motu patlu.patlu" tvg-name="modu patlu" group-title="Kids",motu Patly
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="South Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Film_Reel_icon.png" group-title="Movies",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="" group-title="Entertainment",ARY Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="4/7 Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",4/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-
-#EXTINF:-1 tvg-name="Bollywood Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Bollywood_Logo.png" group-title="Movies",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/CBeebies.svg" group-title="Kids",BBC CBeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-
-#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/PBS_Kids_logo.svg" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TRT_World_logo.svg" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Lifestyle",Fashion One
+#EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Infotainment",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fashion One (Alt)" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Lifestyle",Fashion One (Alt)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_Logo_2012.svg" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+
+#EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_and_Jerry.png" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Resilient HLS Player</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    html, body { height: 100%; margin: 0; background:#111; color:#eee; font-family: system-ui, sans-serif; }
+    .wrap { display:flex; flex-direction:column; height:100%; }
+    header, footer { padding: 8px 12px; background:#1b1b1b; }
+    main { flex:1; display:flex; align-items:center; justify-content:center; padding: 8px; }
+    video { width:100%; max-width: 1080px; height:auto; background:#000; outline:none; }
+    .status { font-size: 12px; opacity: 0.9; }
+    button { padding:6px 10px; margin-left:8px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <span>Resilient HLS Player</span>
+      <button id="btnReload" title="Force reload">Reload</button>
+      <span class="status" id="status">Starting…</span>
+    </header>
+    <main>
+      <video id="video" controls autoplay playsinline></video>
+    </main>
+    <footer>
+      Tips: This page auto-recovers network/media errors and refreshes the source periodically.
+    </footer>
+  </div>
+
+  <!-- hls.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+  <script>
+    // 1) Put YOUR SAME URL here (exactly as you provided)
+    const STREAM_URL = "YOUR_STREAM_URL_HERE"; // e.g. http://103.175.73.12:8080/live/417/417_0.m3u8
+
+    const video = document.getElementById('video');
+    const statusEl = document.getElementById('status');
+    const btnReload = document.getElementById('btnReload');
+
+    let hls = null;
+    let refreshTimer = null;
+
+    function logStatus(msg) {
+      console.log(msg);
+      statusEl.textContent = msg;
+    }
+
+    function initPlayer() {
+      cleanup();
+
+      if (Hls.isSupported()) {
+        hls = new Hls({
+          // Robust defaults
+          autoStartLoad: true,
+          enableWorker: true,
+          lowLatencyMode: false,
+          liveSyncDurationCount: 3,
+
+          // Retry logic
+          manifestLoadingTimeOut: 20000,
+          fragLoadingTimeOut: 20000,
+          levelLoadingTimeOut: 20000,
+          manifestLoadingMaxRetry: 6,
+          manifestLoadingMaxRetryTimeout: 2000,
+          levelLoadingMaxRetry: 6,
+          levelLoadingMaxRetryTimeout: 2000,
+          fragLoadingMaxRetry: 6,
+          fragLoadingMaxRetryTimeout: 2000,
+
+          // Buffer controls
+          maxBufferLength: 60,
+          maxMaxBufferLength: 120,
+          maxBufferHole: 1,
+          startPosition: -1,
+        });
+
+        hls.on(Hls.Events.MEDIA_ATTACHED, () => logStatus("Media attached"));
+        hls.on(Hls.Events.MANIFEST_PARSED, (_, data) => {
+          logStatus(`Manifest loaded: ${data.levels?.length || 1} level(s)`);
+          video.play().catch(() => {});
+        });
+
+        hls.on(Hls.Events.ERROR, (_, data) => {
+          const { type, details, fatal } = data;
+          console.warn("hls.js error:", type, details, data);
+          if (!fatal) return;
+
+          if (type === Hls.ErrorTypes.NETWORK_ERROR) {
+            logStatus("Network error → restart load");
+            hls.startLoad();
+          } else if (type === Hls.ErrorTypes.MEDIA_ERROR) {
+            logStatus("Media error → recover");
+            hls.recoverMediaError();
+          } else {
+            logStatus("Fatal error → reinit player");
+            reinitSoon();
+          }
+        });
+
+        hls.loadSource(STREAM_URL);
+        hls.attachMedia(video);
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        // iOS/Safari
+        video.src = STREAM_URL;
+        video.addEventListener('loadedmetadata', () => video.play().catch(() => {}));
+      } else {
+        logStatus("HLS not supported in this browser.");
+      }
+
+      // 2) Periodic refresh: re-load the manifest every 4 minutes
+      //    (adjust if your stream cuts sooner)
+      refreshTimer = setInterval(() => {
+        logStatus("Periodic refresh → reloading source");
+        try {
+          if (hls) {
+            hls.stopLoad();
+            hls.loadSource(STREAM_URL);
+            hls.startLoad();
+          } else {
+            video.src = STREAM_URL;
+          }
+        } catch (e) {
+          console.warn("Refresh error:", e);
+          reinitSoon();
+        }
+      }, 4 * 60 * 1000);
+
+      // 3) If playback stalls, try a soft resume
+      video.addEventListener('stalled', () => {
+        logStatus("Playback stalled → trying resume");
+        video.play().catch(() => {});
+      });
+      video.addEventListener('waiting', () => {
+        logStatus("Buffering…");
+      });
+      video.addEventListener('error', () => {
+        logStatus("Video element error → reinit soon");
+        reinitSoon();
+      });
+    }
+
+    function reinitSoon() {
+      cleanup();
+      setTimeout(initPlayer, 1500);
+    }
+
+    function cleanup() {
+      if (refreshTimer) {
+        clearInterval(refreshTimer);
+        refreshTimer = null;
+      }
+      if (hls) {
+        try { hls.destroy(); } catch {}
+        hls = null;
+      }
+    }
+
+    btnReload.addEventListener('click', () => {
+      logStatus("Manual reload");
+      reinitSoon();
+    });
+
+    // Start
+    initPlayer();
+  </script>
+</body>
+</html>
 
 #EXTINF:-1 tvg-name="Colors Rishtey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Colors_Rishtey_Logo.png" group-title="Entertainment",Colors Rishtey
 http://103.175.73.12:8080/live/12/12_0.m3u8
@@ -465,12 +623,6 @@ http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-name="Utsav Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Utsav_Logo.png" group-title="Entertainment",Utsav Plus HD
 http://103.175.73.12:8080/live/9/9_0.m3u8
 
-#EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_and_Jerry.png" group-title="Kids",Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Icon.png" group-title="Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Zee_Action_Logo.png" group-title="Movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
@@ -480,26 +632,13 @@ http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Star_Gold_Logo.png" group-title="Movies",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Sony Max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Sony_Max_2_logo.png" group-title="Movies",Sony Max 2 HD
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
 
 #EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/NHK_World_logo.png" group-title="News",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
-
-#EXTINF:-1 tvg-name="Cowboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cowboy_hat_icon.png" group-title="Entertainment",Cowboy TV
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Histoire HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/History_Icon.svg" group-title="Documentary",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
+https://nhkworld-vh.akamaihd.net/i/NHKWORLD_1@395446/master.m3u8
 
 #EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
 
-#EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="South Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Film_Reel_icon.png" group-title="Movies",South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
