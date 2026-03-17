@@ -306,6 +306,11 @@ http://103.175.73.12:8080/live/12/12_0.m3u8
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
 #EXTINF:-1 tvg-name="Utsav Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Utsav_Logo.png" group-title="Unstable",Utsav Plus HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.175.73.12:8080/live/9/9_0.m3u8
 
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Zee_Action_Logo.png" group-title="Unstable",Zee Action
