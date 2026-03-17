@@ -461,7 +461,6 @@ http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Star_Gold_Logo.png" group-title="Unstable",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Unstable",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
