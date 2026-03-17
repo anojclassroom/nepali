@@ -429,41 +429,77 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="" group-title="Entertainment",ARY Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
 
-
+#EXTINF:-1 tvg-name="4/7 Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",4/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 tvg-name="Bollywood Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Bollywood_Logo.png" group-title="Movies",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/CBeebies.svg" group-title="Kids",BBC CBeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/PBS_Kids_logo.svg" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TRT_World_logo.svg" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Lifestyle",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fashion One (Alt)" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Lifestyle",Fashion One (Alt)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_Logo_2012.svg" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+
+#EXTINF:-1 tvg-name="Colors Rishtey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Colors_Rishtey_Logo.png" group-title="Entertainment",Colors Rishtey
 http://103.175.73.12:8080/live/12/12_0.m3u8
+
+#EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Big_Magic_TV_Logo.png" group-title="Entertainment",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 tvg-name="Utsav Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Star_Utsav_Logo.png" group-title="Entertainment",Utsav Plus HD
 http://103.175.73.12:8080/live/9/9_0.m3u8
+
+#EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_and_Jerry.png" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Icon.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Zee_Action_Logo.png" group-title="Movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Zee_Cinema_Logo.png" group-title="Movies",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Star_Gold_Logo.png" group-title="Movies",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Sony_Max_2_logo.png" group-title="Movies",Sony Max 2 HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
-http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/NHK_World_logo.png" group-title="News",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
-http://93.184.10.248/MBCBollywood/index.m3u8
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
-http://103.225.94.27/Infobase/hdd-3/hindi/Border%202%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5bDDN%5d.mp4
+
+#EXTINF:-1 tvg-name="Cowboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cowboy_hat_icon.png" group-title="Entertainment",Cowboy TV
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Histoire HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/History_Icon.svg" group-title="Documentary",Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
-http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
-http://103.161.153.165:8000/play/a03s/index.m3u8
 
-
-
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="South Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Film_Reel_icon.png" group-title="Movies",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
