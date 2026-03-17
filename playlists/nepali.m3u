@@ -426,6 +426,10 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8|User-Agent=Mozilla/
 #EXTINF:-1 tvg-id="motu patlu.patlu" tvg-name="modu patlu" group-title="Kids",motu Patly
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
+#EXTINF:-1 tvg-name="ARY Digital" tvg-logo="" group-title="Entertainment",ARY Digital
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
+
+
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
@@ -457,7 +461,9 @@ http://151.80.18.177:86/Histoire/index.m3u8
 http://103.99.249.139/stargold/index.m3u8
 http://103.99.249.139/sonymax/index.m3u8
 http://103.161.153.165:8000/play/a03s/index.m3u8
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
+
+
+
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
