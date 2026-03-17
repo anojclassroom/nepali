@@ -423,6 +423,8 @@ http://103.229.254.25:7001/play/a03f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi And
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+#EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Movies",My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Kids",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
@@ -460,12 +462,6 @@ http://103.99.249.139/zeecinema/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Star_Gold_Logo.png" group-title="Unstable",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Unstable",My Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/NHK_World_logo.png" group-title="Unstable",NHK World
-https://nhkworld-vh.akamaihd.net/i/NHKWORLD_1@395446/master.m3u8
 
 #EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Unstable",SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
