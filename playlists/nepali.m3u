@@ -296,18 +296,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 #EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="South Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Film_Reel_icon.png" group-title="Movies",South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="Colors Rishtey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Colors_Rishtey_Logo.png" group-title="Unstable",Colors Rishtey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.175.73.12:8080/live/12/12_0.m3u8
-
-
 # Use ffmpegdirect: it’s robust for HLS without DRM
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift   # or 'internet' (both work; try timeshift first)
@@ -316,7 +304,7 @@ http://103.175.73.12:8080/live/12/12_0.m3u8
 #KODIPROP:inputstream.ffmpegdirect.user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 #KODIPROP:inputstream.ffmpegdirect.reconnect=true
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=4000
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey 1
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 http://103.175.73.12:8080/live/12/12_0.m3u8
 
 
@@ -402,6 +390,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_and_Jerry.png" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Junglebook" tvg-logo="" group-title="Kids",Junglebook
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+
 ####################
 # ⚠️ UNSTABLE (LIVE)
 ####################
@@ -429,6 +422,14 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+#EXTINF:-1 tvg-id="Zee.in@HD" tvg-name="&pictures HD" tvg-logo="" group-title="Unstable",Zee TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.161.153.165:8000/play/a01j/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)http://103.161.153.165:8000/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-name="&TV" tvg-id="andtv.in" tvg-logo="" group-title="Unstable",&TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
@@ -453,23 +454,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.99.249.139/zeecinema/index.m3u8
 
-
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-id="zeecinema.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-CINEMA-HD.png" group-title="Unstable",Zee Cinema
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-name="Zee TV" tvg-id="zeetv.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-TV-HD-TRNS.png" group-title="Unstable",Zee TV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
 #EXTINF:-1 tvg-name="Star Plus" tvg-id="starplus.in" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Star-Plus-HD.png" group-title="Unstable",Star Plus
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
@@ -477,30 +461,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.229.254.25:7001/play/a09p/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-name="Sony SAB" tvg-id="SonySAB.sab" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-SAB-HD.png" group-title="Unstable",Sony SAB
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a09s/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="Colors" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Unstable",Colors
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a077/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-name="Disney HD" tvg-logo="https://w7.pngwing.com/pngs/52/582/png-transparent-disney-channel-hd-logo.png" group-title="Unstable",Disney HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="&Prive HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg" group-title="Unstable",&Prive HD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -510,10 +470,3 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.229.254.25:7001/play/a03f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-name="Zee Zest HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Unstable",Zee Zest HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
