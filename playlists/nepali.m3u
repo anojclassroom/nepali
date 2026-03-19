@@ -72,6 +72,9 @@ https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8|User-Agent=Mozilla/5.0 (Kodi An
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Devotional",Hare Krsna
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
 ##########
 # 🎵 MUSIC
 ##########
@@ -124,6 +127,19 @@ https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi
 #EXTINF:-1 tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Music",Channel 9
+http://103.161.153.165:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Music Bangla
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Music",Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music",MU | 8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+
+
 #####################
 # 📺 ENTERTAINMENT / FAST
 #####################
@@ -167,6 +183,41 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-name="Anger Management" group-title="Entertainment",Anger Management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+# Use ffmpegdirect: it’s robust for HLS without DRM
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift   # or 'internet' (both work; try timeshift first)
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
+#KODIPROP:inputstream.ffmpegdirect.reconnect=true
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=4000
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
+http://103.175.73.12:8080/live/12/12_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Entertainment",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Entertainment",Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="Entertainment",Sony TV
+http://103.161.153.165:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg" group-title="Entertainment",Sony Sab
+http://103.161.153.165:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Entertainment",Star Bharat HD
+http://103.182.170.32:8888/play/a02n
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Entertainment",Zee TV
+http://103.161.153.165:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Entertainment",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+
 ################
 # 🌍 INFOTAINMENT
 ################
@@ -206,6 +257,12 @@ https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Infotainment",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Infotainment",Discovery Bangla
+http://202.70.146.135:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #########
 # 🗞️ NEWS
@@ -301,17 +358,11 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 #EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Film_strip_icon.png" group-title="Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-# Use ffmpegdirect: it’s robust for HLS without DRM
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift   # or 'internet' (both work; try timeshift first)
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
-#KODIPROP:inputstream.ffmpegdirect.reconnect=true
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=4000
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
-http://103.175.73.12:8080/live/12/12_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",And Flix
+http://103.161.153.165:8000/play/a01z/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",And Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Big_Magic_TV_Logo.png" group-title="Unstable",Big Magic
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -353,6 +404,17 @@ http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.99.249.139/sonymax/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Movies",Zee Anmol Cinema
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg" group-title="Movies",Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Movies",Star Gold
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Movies",Jalsha Movies HD
+http://103.161.153.165:8000/play/a01e/index.m3u8
 
 #############
 # 🟧 BHOJPURI
@@ -398,7 +460,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Junglebook" tvg-logo="" group-title="Kids",Junglebook
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="Kids",Nick JR
+http://103.182.170.32:8888/play/a02q
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png" group-title="Kids",Sony Yay
+http://103.182.170.32:8888/play/a04m
 
 ####################
 # ⚠️ UNSTABLE (LIVE)
@@ -474,4 +540,26 @@ http://103.229.254.25:7001/play/a09p/index.m3u8|User-Agent=Mozilla/5.0 (Kodi And
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.229.254.25:7001/play/a03f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Unstable",Zee Cafe
+http://103.182.170.32:8888/play/a01w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
