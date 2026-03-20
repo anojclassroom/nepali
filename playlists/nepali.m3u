@@ -325,7 +325,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Mozilla/
 http://45.148.145.57/IN_FOODFOOD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/tlc-hd.png" group-title="Infotainment",TLC HD
-
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
