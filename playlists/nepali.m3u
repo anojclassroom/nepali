@@ -149,9 +149,6 @@ https://mumt04.tangotv.in/E24/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 #EXTINF:-1 tvg-name="Punjabi TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Music",Punjabi TV
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-name="MH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_PMogxfCJs9ZnV1y7nRAIvu1jZizzl30FN4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music",MH1
-https://mumt04.tangotv.in/MHONE/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
 #EXTINF:-1 tvg-name="Tadka TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Punjabi_Tadka.jpg" group-title="Music",Tadka TV
 https://mumt03.tangotv.in/TADKA/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
@@ -205,9 +202,6 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Andro
 #EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-name="Shemaroo Josh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",DD National
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
@@ -220,7 +214,7 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-name="Anger Management" group-title="Entertainment",Anger Management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-# Use ffmpegdirect: it’s robust for HLS without DRM
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift   # or 'internet' (both work; try timeshift first)
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -228,25 +222,54 @@ https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg
 #KODIPROP:inputstream.ffmpegdirect.user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36
 #KODIPROP:inputstream.ffmpegdirect.reconnect=true
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=4000
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 http://103.175.73.12:8080/live/12/12_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Entertainment",Enter 10 Bangla
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="Entertainment",Sony TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.161.153.165:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg" group-title="Entertainment",Sony Sab
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.161.153.165:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Entertainment",Star Bharat HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.182.170.32:8888/play/a02n
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Entertainment",Zee TV
@@ -270,46 +293,117 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 ################
 
 #EXTINF:-1 tvg-name="Discover Pakistan" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png" group-title="Infotainment",Discover Pakistan
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Travel XP English (S)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English (S)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Travel XP English (NZ)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English (NZ)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment",Food Food
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://45.148.145.57/IN_FOODFOOD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/tlc-hd.png" group-title="Infotainment",TLC HD
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-BBC-EARTH-HD.png" group-title="Infotainment",BBC Earth
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="" group-title="Infotainment",CGTN Documentary
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Come Dine With Me" tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=%28ITV%29+Come+Dine+With+Me%3F" group-title="Infotainment",Come Dine With Me
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Zoomer TV" tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Zoomer+Tv" group-title="Infotainment",Zoomer TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Explore" tvg-id="explore.in" tvg-logo="https://explore-tv.com/img/header/exploretv-logo.png" group-title="Infotainment",Explore
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Baywatch" tvg-logo="" group-title="Infotainment",Baywatch
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Infotainment",Fashion One
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Infotainment",Discovery Bangla
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #########
 # 🗞️ NEWS
@@ -361,6 +455,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 # 🎬 MOVIES
 ###########
 
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-name="Shemaroo Josh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+
 #EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
@@ -384,6 +481,9 @@ https://cdn-2.pishow.tv/live/227/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Androi
 
 #EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+
+#EXTINF:-1 tvg-name="MH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_PMogxfCJs9ZnV1y7nRAIvu1jZizzl30FN4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MH1
+https://mumt04.tangotv.in/MHONE/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-id="Goldminesbollywood.bolly" tvg-name="Goldmines Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
