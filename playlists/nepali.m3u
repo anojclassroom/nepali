@@ -4,78 +4,42 @@
 ############
 
 #EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV HD" tvg-logo="https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/Kantipur-TV-Logo-HD-14122017073526.jpg" group-title="Nepal",Kantipur TV HD
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Public.public" tvg-name="Public TV" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/Public-TV-4K.png" group-title="Nepal",Public TV
-http://103.180.240.141:8080/hls/main1/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVToday.tvtoday" tvg-name="TV Today" tvg-logo="https://tvtoday.com.np/logo/tvtoday_01.png" group-title="Nepal",TV Today
-https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IndigenousTV.indigenous" tvg-name="Indigenous TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/99/34/c39934a0-1e68-c2a9-d09a-8a6a9bfd258d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/1200x630wa.png" group-title="Nepal",Indigenous TV
-http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MithilaTV.mithila" tvg-name="Mithila TV" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila TV
-http://150.107.205.212:1935/live/mithila/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CapitalTV.capital" tvg-name="Capital TV" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/Capital_Tv_HD-1.jpg" group-title="Nepal",Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
 #EXTINF:-1 tvg-id="divyadarshan.divyadarshan" tvg-name="Divyadarshan" tvg-logo="https://divyadarshantv.com/wp-content/uploads/2020/06/Divya-Darshan_tvlogo.png" group-title="Nepal",Divyadarshan
-http://live.divyadarshantv.com/hls/stream.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://live.divyadarshantv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NepalMandal.nepalmandal" tvg-name="Nepal Mandal" tvg-logo="https://vianet.com.np/images/channel-list/Nepali/NEPAL-MANDAL.png" group-title="Nepal",Nepal Mandal
-http://103.96.246.211:8000/main|User-Agent=Mozilla/5.0 (Kodi Android)
+http://103.96.246.211:8000/main
 
-
-# ---------- NTV ----------
 #EXTINF:-1 tvg-id="NepalTelevision.ntv" tvg-name="NTV" tvg-logo="https://play-lh.googleusercontent.com/xi2AsP1mMZzZR_xIzW-IML_N1Zu_kLH-Xmn6xKPmSmBXJGQTbPaCc-JoaC-EVFTykFA" group-title="Nepal",NTV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
 https://ntv.onrender.com/ntv/ntv
 
-# ---------- NTV News ----------
 #EXTINF:-1 tvg-id="NTVNews.ntvnews" tvg-name="NTV News" tvg-logo="https://www.nttv.com.np/wp-content/uploads/2022/05/NTV_News_HD-1.jpg" group-title="Nepal",NTV News
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
 https://ntv.onrender.com/ntv/ntv-news
 
-# ---------- NTV Kohalpur ----------
 #EXTINF:-1 tvg-id="NTVKohalpur.ntvkohalpur" tvg-name="NTV Kohalpur" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-kohalpur-np.png" group-title="Nepal",NTV Kohalpur
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
 https://ntv.onrender.com/ntv/ntv-kohalpur
 
-# ---------- NTV Itahari ----------
 #EXTINF:-1 tvg-id="NTVItahari.ntvitahari" tvg-name="NTV Itahari" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/NTV-ITAHARI-HD.png" group-title="Nepal",NTV Itahari
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
 https://ntv.onrender.com/ntv/ntv-itahari
 
-# ---------- NTV World ----------
 #EXTINF:-1 tvg-id="NTVWorld.ntvworld" tvg-name="NTV World" tvg-logo="https://www.nepalkhoj.com/wp-content/uploads/2025/11/ntv.jpg" group-title="Nepal",NTV World
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
 https://ntv.onrender.com/ntv/ntv-world
 
 ###############
@@ -83,31 +47,24 @@ https://ntv.onrender.com/ntv/ntv-world
 ###############
 
 #EXTINF:-1 tvg-id="Aastha.in@SD" tvg-name="Aastha" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooBhakti.shemaroo_bhakti" tvg-name="Shemaroo Bhakti" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/Bhakti.jpg" group-title="Devotional",Shemaroo Bhakti
-https://cdn-3.pishow.tv/live/230/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
+https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime.aastha_prime" tvg-name="Aastha Prime" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aastha-prime-in.png" group-title="Devotional",Aastha Prime
-https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="BhaktiSagar.bhakti_sagar" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Devotional",Bhakti Sagar
-https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 
 #EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" tvg-logo="https://divya.tv/wp-content/uploads/2023/10/divya-tv-logo-about.png" group-title="Devotional",Divya
-https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeaceOfMind.peaceofmind" tvg-name="Peace of Mind" tvg-logo="https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png" group-title="Devotional",Peace of Mind
-https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Kodi Android)
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Devotional",Hare Krsna
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
