@@ -329,6 +329,9 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-NEWS.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+#EXTINF:-1 tvg-id="GeoNews" tvg-name="Geo News" tvg-logo="https://vectorseek.com/wp-content/uploads/2020/12/Geo-news-logo-vector.png" group-title="News",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+
 #EXTINF:-1 tvg-id="France24.france24" tvg-name="France 24" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-24-logo.png" group-title="News",France 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
@@ -349,9 +352,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi A
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2025/06/aljazeera.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-id="GeoNews" tvg-name="Geo News" tvg-logo="https://vectorseek.com/wp-content/uploads/2020/12/Geo-news-logo-vector.png" group-title="News",Geo News
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TRT_World_logo.svg" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
