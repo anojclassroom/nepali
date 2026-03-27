@@ -78,46 +78,46 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 ##########
 
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM
-https://9xjio.wiseplayout.com/9XM/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music",9X Jalwa
-https://mumt03.tangotv.in/9XJALWA/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
 
 #EXTINF:-1 tvg-name="HINDI HITS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" group-title="Music",HINDI HITS HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-name="Joo Music" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Balle Balle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ea3HwKY8RVdz4wfh7D50dCgZYp89Tz0IGQ&s" group-title="Music",Balle Balle
-https://mcncdndigital.com/balleballetv/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync
-https://mumt04.tangotv.in/INSYNC/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt04.tangotv.in/INSYNC/index.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="ZOOM Int" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="Music",ZOOM Int
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 #EXTINF:-1 tvg-name="ZOOM TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="Music",ZOOM TV
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-name="E24" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music",E24
-https://mumt04.tangotv.in/E24/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt04.tangotv.in/E24/index.m3u8
 
 #EXTINF:-1 tvg-name="Punjabi TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Music",Punjabi TV
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Tadka TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Punjabi_Tadka.jpg" group-title="Music",Tadka TV
-https://mumt03.tangotv.in/TADKA/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt03.tangotv.in/TADKA/index.m3u8
 
 #EXTINF:-1 tvg-name="PTC Punjabi Gold" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Music",PTC Punjabi Gold
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
 #EXTINF:-1 tvg-name="Punjabi Music" tvg-logo="https://cdn.imgbin.com/2/9/25/imgbin-channel-punjabi-punjabi-language-television-channel-broadcasting-others-hKZ85U45mYzBHjD0bdYS0KERY.jpg" group-title="Music",Punjabi Music
-https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 
 #EXTINF:-1 tvg-name="YRF Music" tvg-id="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -144,31 +144,31 @@ https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 #####################
 
 #EXTINF:-1 tvg-id="HarPalGeo.harpalgeo" tvg-name="Har Pal Geo" tvg-logo="https://i.imgur.com/NX3vvAX.png" group-title="Entertainment",Har Pal Geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aur Life" tvg-id="aur.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="Entertainment",Aur Life
-http://124.109.47.101/hls/stream1.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://124.109.47.101/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="" group-title="Entertainment",ARY Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Dangal.Dangal" tvg-name="Dangal TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="Entertainment",Dangal TV
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.Dangal2" tvg-name="Dangal 2" tvg-logo="https://indiantvinfo.com/media/2022/12/Dangal-2-Logo-1024x805.jpg" group-title="Entertainment",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manoranjan.manoranjan" tvg-name="Manoranjan" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599190s.jpg" group-title="Entertainment",Manoranjan
-https://cdn-1.pishow.tv/live/1013/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://cdn-1.pishow.tv/live/1013/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanGrand.manoranjan_grand" tvg-name="Manoranjan Grand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg" group-title="Entertainment",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",DD National
-https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeWorld1" tvg-name="Zee World" group-title="Entertainment",Zee One
 #KODIPROP:inputstream=inputstream.adaptive
@@ -177,7 +177,7 @@ https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi A
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Anger Management" group-title="Entertainment",Anger Management
-https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -248,7 +248,7 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP English (S)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English (S)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -256,7 +256,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP English (NZ)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English (NZ)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -264,7 +264,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Unstable",Food Food
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -272,7 +272,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://45.148.145.57/IN_FOODFOOD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://45.148.145.57/IN_FOODFOOD/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tlc" tvg-name="TLC HD" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/tlc-hd.png" group-title="Infotainment",TLC HD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -280,7 +280,7 @@ http://45.148.145.57/IN_FOODFOOD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/SONY-BBC-EARTH-HD.png" group-title="Infotainment",BBC Earth
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -288,7 +288,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8|User-Agent=Mozill
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="" group-title="Infotainment",CGTN Documentary
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -296,7 +296,7 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-name="Come Dine With Me" tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=%28ITV%29+Come+Dine+With+Me%3F" group-title="Infotainment",Come Dine With Me
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -304,7 +304,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8|User-Agent=Mozilla/5.0 (K
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoomer TV" tvg-logo="https://dummyimage.com/300x300/1f2937/ffffff.png&text=Zoomer+Tv" group-title="Infotainment",Zoomer TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -312,7 +312,7 @@ https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC|User-Agent=Mozilla/5.0 (Kodi Android)
+https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC
 
 #EXTINF:-1 tvg-name="Explore" tvg-id="explore.in" tvg-logo="https://explore-tv.com/img/header/exploretv-logo.png" group-title="Infotainment",Explore
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -320,7 +320,7 @@ https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Baywatch" tvg-logo="" group-title="Infotainment",Baywatch
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -328,7 +328,7 @@ https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
+https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fashion One" tvg-logo="https://fashionone.com/wp-content/uploads/2018/06/fashionone-logo.png" group-title="Infotainment",Fashion One
 #KODIPROP:inputstream=inputstream.ffmpegdirect
