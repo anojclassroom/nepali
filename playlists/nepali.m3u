@@ -426,7 +426,7 @@ http://103.175.73.12:8080/live/13/13_0.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Unstable",SONY MAX SD
+#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -442,7 +442,7 @@ http://103.99.249.139/sonymax/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" group-title="Movie",Bhojpuri Cinema
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png" group-title="Movies",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri
