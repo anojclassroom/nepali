@@ -170,19 +170,16 @@ https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8|User-Agent=Mozilla/5.0 (Kodi
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Music Bangla
-http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Music",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music",MU | 8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
+#EXTINF:-1 tvg-name="9XTashan" tvg-logo="" group-title="Music",9XTashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas
+#EXTINF:-1 tvg-name="9XJhakaas" tvg-logo="" group-title="Music",9XJhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #####################
@@ -288,7 +285,7 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 # 🌍 INFOTAINMENT
 ################
 
-#EXTINF:-1 tvg-name="Discover Pakistan" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png" group-title="Infotainment",Discover Pakistan
+#EXTINF:-1 tvg-name="Discover Pakistan" tvg-id="Dis.pk" tvg-logo="https://discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png" group-title="Unstable",Discover Pakistan
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -312,7 +309,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Mozilla/
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment",Food Food
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Unstable",Food Food
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -384,7 +381,7 @@ https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Infotainment",Discovery Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Unstable",Discovery Bangla
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -568,14 +565,8 @@ http://103.99.249.139/sonymax/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg" group-title="Movies",Zee Bollywood
-http://103.182.170.32:8888/play/a02r
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Movies",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="&Flix.us" tvg-name="&flix" group-title="Unstable",&Flix
-http://116.90.120.151:8000/play/a0il/index.m3u8
 
 #############
 # 🟧 BHOJPURI
@@ -623,9 +614,6 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="Kids",Nick JR
 http://103.182.170.32:8888/play/a02q
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png" group-title="Kids",Sony Yay
-http://103.182.170.32:8888/play/a04m
 
 ####################
 # ⚠️ UNSTABLE (LIVE)
