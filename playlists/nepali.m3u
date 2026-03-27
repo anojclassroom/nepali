@@ -592,22 +592,11 @@ http://103.229.254.25:7001/play/a09v/index.m3u8|User-Agent=Mozilla/5.0 (Kodi And
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.99.249.139/zeecinema/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Entertainment" group-title="",Star Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Unstable" group-title="",Star Plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title=" Movies" group-title="",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies" group-title="Movies",And Pictures HD
-http://103.229.254.25:7001/play/a033/index.m3u8
-
-EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Infotainment",History TV 18
-http://103.229.254.25:7001/play/a02z/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png" group-title="Entertainment",Colors
 
 #EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LOGO_HD/image.png" group-title="Movies",Star Gold Romance
 http://116.90.120.151:8000/play/a0he/index.m3u8
