@@ -674,3 +674,29 @@ http://116.90.120.151:8000/play/a0kc/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Utsab Movie.us" tvg-name="Star Utsab Movie" group-title="Unstable",Star Utsab Movie
 http://116.90.120.151:8000/play/a0ka/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Goldmines Bollywood 
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Music" group-title="",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Music" group-title="",9XM1
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Music" group-title="",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",Food Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Infotainment", OUTDOOR CHANNEL 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Unstable" group-title="",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Unstable",Zee TV HD
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+
