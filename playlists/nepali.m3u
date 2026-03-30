@@ -566,22 +566,6 @@ http://103.161.153.165:8000/play/a01j/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.161.153.165:8000/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Zee_Cinema_Logo.png" group-title="Unstable",Zee Cinema HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.99.249.139/zeecinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Star Gold
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Entertainment",Star Bharat HD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
