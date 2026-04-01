@@ -612,10 +612,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="" group-title="test",Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="test",Movie Club 2
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
 
+#EXTINF:-1 tvg-logo="" group-title="test",SteelbirdMusic
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Plus
+http://103.229.254.25:7001/play/a09z/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Movie
+http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Gold
+http://103.229.254.25:7001/play/a032/index.m3u8
 
 
 
