@@ -635,7 +635,7 @@ http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unstable",Star Gold
 http://103.229.254.25:7001/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Unstable",History
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",History
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Unstable",Color HD
@@ -651,10 +651,26 @@ http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unstable",&Picture
 http://103.161.153.165:8000/play/a05u/index.m3u8
 
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Infotainment",Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",Test Kitchen
+https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Infotainment",bon appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Infotainment",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Infotainment",The Design Network
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+
+#EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-name="Smart LifeStyle TV" tvg-logo="https://i.imgur.com/kHFlTEy.png" group-title="Infotainment",Smart LifeStyle TV
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies!
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
 
 
