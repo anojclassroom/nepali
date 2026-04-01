@@ -630,6 +630,21 @@ http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unstable",Star Gold
 http://103.229.254.25:7001/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Unstable",History
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Color HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Color
+http://103.229.254.25:7001/play/a077/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",&TV
+http://103.229.254.25:7001/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",&Picture
+http://103.161.153.165:8000/play/a05u/index.m3u8
 
 
 
