@@ -59,14 +59,8 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime.aastha_prime" tvg-name="Aastha Prime" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aastha-prime-in.png" group-title="Devotional",Aastha Prime
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="BhaktiSagar.bhakti_sagar" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Devotional",Bhakti Sagar
-https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
-
 #EXTINF:-1 tvg-id="Divya.divya" tvg-name="Divya" tvg-logo="https://divya.tv/wp-content/uploads/2023/10/divya-tv-logo-about.png" group-title="Devotional",Divya
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PeaceOfMind.peaceofmind" tvg-name="Peace of Mind" tvg-logo="https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png" group-title="Devotional",Peace of Mind
-https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png" group-title="Devotional",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
@@ -189,9 +183,6 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.manoranjan_grand" tvg-name="Manoranjan Grand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg" group-title="Entertainment",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooUmang.shemaroo_umang" tvg-name="Shemaroo Umang" tvg-logo="https://shemarooent.com/assets/images/shemarooUmang/umang-tv.png" group-title="Entertainment",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-
 #EXTINF:-1 tvg-id="DDNational.ddnational" tvg-name="DD National" tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
@@ -203,9 +194,6 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 tvg-name="Anger Management" group-title="Entertainment",Anger Management
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UniqueTV.unique" tvg-name="Unique TV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/unique-tv.gif" group-title="Entertainment",Unique TV
-https://mumt05.tangotv.in/UNIQUETV/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -420,7 +408,7 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="test",Authentic Travel
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",Authentic Travel
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -497,8 +485,6 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-name="Shemaroo Josh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Geo Cinema" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN7poCGCn2wpvwsE-emoBFQBMw0egdtJyw6yXAJ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Geo Cinema
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
@@ -512,17 +498,11 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8|User-Agent=Moz
 #EXTINF:-1 tvg-name="Bollywood Movies" tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Movies",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
-#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Movies",B4U Movies
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
 #EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-name="MH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_PMogxfCJs9ZnV1y7nRAIvu1jZizzl30FN4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MH1
-https://mumt04.tangotv.in/MHONE/index.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-id="Goldminesbollywood.bolly" tvg-name="Goldmines Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
@@ -562,13 +542,6 @@ http://103.175.73.12:8080/live/13/13_0.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Movies",Zee Anmol Cinema
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -626,93 +599,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Junglebook" tvg-logo="" group-title="Kids",Junglebook
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-####################
-# ⚠️ UNSTABLE (LIVE)
-####################
 
-#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Plus
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a09z/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Movie
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Gold
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",Color HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a0a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",Color
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a077/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",&TV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.229.254.25:7001/play/a09v/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Unstable",&Picture
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Unstable", Zee TV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a01j/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Movies",Sony Max
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Entertainment",Star Bharat HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.182.170.32:8888/play/a02n
+########
+# 👶 English Movies
+########
 
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="English Movies", Movies!
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -730,7 +620,8 @@ https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Sony One Comedy Hits
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -816,5 +707,107 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+
+####################
+# ⚠️ UNSTABLE (LIVE)
+####################
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Plus
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.229.254.25:7001/play/a09z/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Movie
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Star Gold
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Color HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",Color
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.229.254.25:7001/play/a077/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",&TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.229.254.25:7001/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unstable",&Picture
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.161.153.165:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Unstable", Zee TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.161.153.165:8000/play/a01j/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Unstable",Sony Max
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.161.153.165:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.99.249.139/sonymax/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Unstable",Star Bharat HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
+http://103.182.170.32:8888/play/a02n
+
+
+
+
 
 
