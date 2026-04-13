@@ -146,7 +146,6 @@ https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-name="9XJhakaas" tvg-logo="" group-title="Music",9XJhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="Music",SteelbirdMusic
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
@@ -437,6 +436,14 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id="ZeeNews.zeenews" tvg-name="Zee News" tvg-logo="https://carotvnepal.com.np/wp-content/uploads/2024/04/ZEE-NEWS.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
+
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+
 #EXTINF:-1 tvg-id="GeoNews" tvg-name="Geo News" tvg-logo="https://vectorseek.com/wp-content/uploads/2020/12/Geo-news-logo-vector.png" group-title="News",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
 
@@ -561,15 +568,6 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8|User-Agent=Mozilla/5.0 (
 
 #EXTINF:-1 tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://yt3.googleusercontent.com/3q7hOZZ13Ctb2sYwZ8DlCn23p8YypdoYv0YSl41VAfhjCSsol-rGM4eOhjhre8I8f6adk95WWGg=s160-c-k-c0x00ffffff-no-rj" group-title="Movies",Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8|User-Agent=Mozilla/5.0 (Kodi Android)
-
-#EXTINF:-1 tvg-logo=""group-title="Movies" group-title="",UTV Gold 
-http://103.161.153.165:8000/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Movies" group-title="",UTV Classic
-http://103.161.153.165:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Movies" group-title="",UTV Pictures
-http://103.161.153.165:8000/play/a03e/index.m3u8
 
 ########
 # 👶 Kids
@@ -752,47 +750,40 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
 http://103.229.254.25:7001/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Unstable",&Picture
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi" group-title="Unstable",Star Plus
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi" group-title="Unstable",Colors
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="Unstable",Zee TV HD
+http://103.229.254.25:7001/play/a0cs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Unstable", Zee TV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies" group-title="Unstable",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies" group-title="Unstable",And Pictures HD
+http://103.229.254.25:7001/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="Andflix.in" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Unstable",&flix
+http://116.90.120.151:8000/play/a0il/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Unstable",Sony Max
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.161.153.165:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-name="&prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Unstable",&prive HD
+http://116.90.120.151:8000/play/a0it/index.m3u8
 
-#EXTINF:-1 tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Sony_Max_logo.png" group-title="Movies",SONY MAX SD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png" group-title="Unstable",&pictures
+http://103.229.254.25:7001/play/a033/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="Unstable",Star Bharat HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.network_caching_ms=3000
-http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX/images/LOGO_HD/image.png" group-title="Unstable",Sony Pix
+http://103.229.254.25:7001/play/a0ed/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LOGO_HD/image.png" group-title="Unstable",Star Gold Romance
+http://116.90.120.151:8000/play/a0he/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT/images/LOGO_HD/image.png" group-title="Unstable",Star Gold Select
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+
+
+
 
 
 
